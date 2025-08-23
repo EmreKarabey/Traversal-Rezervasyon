@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\Traversal Rezervasyon\\Traversal Rezervasyon.csproj": {}
+    "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\Traversal Rezervasyon\\Traversal Rezervasyon.csproj": {
+    "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\Traversal Rezervasyon\\Traversal Rezervasyon.csproj",
-        "projectName": "Traversal Rezervasyon",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\Traversal Rezervasyon\\Traversal Rezervasyon.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\Traversal Rezervasyon\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -83,9 +83,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
