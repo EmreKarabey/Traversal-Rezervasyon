@@ -1598,6 +1598,20 @@
             "rid": "win"
           }
         }
+      },
+      "EntityLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.8"
+        },
+        "compile": {
+          "bin/placeholder/EntityLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntityLayer.dll": {}
+        }
       }
     }
   },
@@ -4701,10 +4715,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "EntityLayer/1.0.0": {
+      "type": "project",
+      "path": "../EntitityLaye/EntityLayer.csproj",
+      "msbuildProject": "../EntitityLaye/EntityLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "EntityLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.8",
@@ -4742,7 +4762,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\EntitityLaye\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\EntitityLaye\\EntityLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

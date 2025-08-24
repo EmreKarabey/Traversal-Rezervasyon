@@ -8,7 +8,7 @@ namespace EntityLayer.Concrete
 {
     public class Feature2
     {
-        public int FeatureID { get; set; }
+        public int Feature2ID { get; set; }
         public string PostName { get; set; }
         public string PostDescription { get; set; }
         public string PostImage { get; set; }
