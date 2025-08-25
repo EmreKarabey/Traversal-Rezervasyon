@@ -1,5 +1,7 @@
 ﻿using BusinessLayer.Concrete;
+using DataAccessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
+using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Traversal_Rezervasyon.ViewComponents.Default
@@ -10,7 +12,7 @@ namespace Traversal_Rezervasyon.ViewComponents.Default
         public IViewComponentResult Invoke()
         {
             var gstr = destinationManager.list();
-            
+
             return View(gstr);
         }
     }
