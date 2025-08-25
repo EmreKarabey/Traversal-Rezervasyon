@@ -14,6 +14,7 @@ namespace EntityLayer.Concrete
         public string Post1Name { get; set; }
         public string Post1Description { get; set; }
         public string Post1Image { get; set; }
-        public string Status { get; set; }
+        public bool Status { get; set; }
+        public bool BigImage { get; set; }
     }
 }
