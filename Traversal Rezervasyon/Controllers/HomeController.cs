@@ -28,5 +28,25 @@ namespace Traversal_Rezervasyon.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public PartialViewResult _HeaderPartial()
+        {
+            return PartialView();
+        }
+
+        public PartialViewResult _NavbarPartial()
+        {
+            return PartialView();
+        }
+
+        public PartialViewResult _FooterPartial()
+        {
+            return PartialView();
+        }
+
+        public PartialViewResult _ScriptPartial()
+        {
+            return PartialView();
+        }
     }
 }
