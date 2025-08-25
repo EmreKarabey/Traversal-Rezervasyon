@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BusinessLayer.Abstract;
+using DataAccessLayer.Abstract;
 using EntityLayer.Concrete;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 
@@ -11,9 +12,9 @@ namespace BusinessLayer.Concrete
 {
     public class DestinationManager : IDestinationServices
     {
-        private readonly IDestinationServices _IDestinationServices;
+        private readonly IDestination _IDestinationServices;
 
-        public DestinationManager(IDestinationServices destinationServices)
+        public DestinationManager(IDestination destinationServices)
         {
             _IDestinationServices = destinationServices;
         }

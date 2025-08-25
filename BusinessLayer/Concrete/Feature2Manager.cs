@@ -4,15 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BusinessLayer.Abstract;
+using DataAccessLayer.Abstract;
 using EntityLayer.Concrete;
 
 namespace BusinessLayer.Concrete
 {
     public class Feature2Manager : IFeature2Services
     {
-        private readonly IFeature2Services _feature2Services;
+        private readonly IFeature2 _feature2Services;
 
-        public Feature2Manager(IFeature2Services feature2Services)
+        public Feature2Manager(IFeature2 feature2Services)
         {
             _feature2Services = feature2Services;
         }
