@@ -28,9 +28,11 @@ namespace BusinessLayer.Concrete
             _IDestinationServices.Delete(t);
         }
 
-        public Destination GetById(Destination t)
+        public Destination GetById(int id)
         {
-            throw new NotImplementedException();
+            var gstr = _IDestinationServices.GetById(id);
+
+            return gstr;
         }
 
         public List<Destination> list()

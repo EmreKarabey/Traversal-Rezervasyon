@@ -27,7 +27,9 @@ namespace BusinessLayer.Concrete
             _ISubAbout.Delete(t);
         }
 
-        public SubAbout GetById(SubAbout t)
+      
+
+        public SubAbout GetById(int id)
         {
             throw new NotImplementedException();
         }

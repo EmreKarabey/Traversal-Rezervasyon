@@ -27,12 +27,12 @@ namespace BusinessLayer.Concrete
             _Iabout.Delete(t);
         }
 
-        public About GetById(About t)
+      
+
+        public About GetById(int id)
         {
             throw new NotImplementedException();
         }
-
-       
 
         public List<About> list()
         {

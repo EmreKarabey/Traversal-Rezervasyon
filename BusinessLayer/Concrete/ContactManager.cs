@@ -27,7 +27,10 @@ namespace BusinessLayer.Concrete
             _IContact.Delete(t);
         }
 
-        public Contact GetById(Contact t)
+    
+    
+
+        public Contact GetById(int id)
         {
             throw new NotImplementedException();
         }

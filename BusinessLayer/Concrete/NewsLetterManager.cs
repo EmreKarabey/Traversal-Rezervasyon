@@ -26,7 +26,9 @@ namespace BusinessLayer.Concrete
             _INewsLetter.Update(t);
         }
 
-        public NewsLetter GetById(NewsLetter t)
+      
+
+        public NewsLetter GetById(int id)
         {
             throw new NotImplementedException();
         }

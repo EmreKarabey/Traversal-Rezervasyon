@@ -1,8 +1,12 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.svg
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\all.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\css\site.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\main.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery.countup.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\lightbox-plus-jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.js
@@ -12,7 +16,9 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\contact.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\main.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\lightbox-plus-jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\about.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\favicon.ico
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\fonts\fontawesome-webfont.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\app.js
@@ -20,7 +26,10 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.min.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\theme-change.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\services.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery-3.3.1.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\fonts\FontAwesome.otf
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\owl.carousel.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -30,11 +39,14 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\theme-change.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\blog.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation\dist\additional-methods.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\jquery.zoomslider.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\pricing.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\starter-license-W3Layouts.txt
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\modernizr-2.6.2.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\index.html
@@ -44,6 +56,7 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\bootstrap.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\all.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\blog-single.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\jquery.countup.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -56,8 +69,13 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\landing-single.html
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\app.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\index.html
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\contact.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\about.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\jquery.min.js
@@ -65,12 +83,18 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\popper.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\liberty-license-W3Layouts.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\fonts\FontAwesome.otf
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery.waypoints.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\owl.carousel.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\css\style-liberty.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation\LICENSE.md
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
@@ -80,8 +104,10 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\popper.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\bootstrap.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\css\style-starter.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery.zoomslider.min.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
@@ -145,6 +171,63 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\Traversal-Liberty\about.html
+wwwroot\Traversal-Liberty\assets\css\style-liberty.css
+wwwroot\Traversal-Liberty\assets\fonts\FontAwesome.otf
+wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.eot
+wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.svg
+wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.ttf
+wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.woff
+wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.woff2
+wwwroot\Traversal-Liberty\assets\images\banner1.jpg
+wwwroot\Traversal-Liberty\assets\images\banner2.jpg
+wwwroot\Traversal-Liberty\assets\images\banner3.jpg
+wwwroot\Traversal-Liberty\assets\images\banner4.jpg
+wwwroot\Traversal-Liberty\assets\images\c1.jpg
+wwwroot\Traversal-Liberty\assets\images\c2.jpg
+wwwroot\Traversal-Liberty\assets\images\c3.jpg
+wwwroot\Traversal-Liberty\assets\images\c4.jpg
+wwwroot\Traversal-Liberty\assets\images\close.png
+wwwroot\Traversal-Liberty\assets\images\date.png
+wwwroot\Traversal-Liberty\assets\images\dots.png
+wwwroot\Traversal-Liberty\assets\images\down.png
+wwwroot\Traversal-Liberty\assets\images\g1.jpg
+wwwroot\Traversal-Liberty\assets\images\g10.jpg
+wwwroot\Traversal-Liberty\assets\images\g2.jpg
+wwwroot\Traversal-Liberty\assets\images\g3.jpg
+wwwroot\Traversal-Liberty\assets\images\g4.jpg
+wwwroot\Traversal-Liberty\assets\images\g5.jpg
+wwwroot\Traversal-Liberty\assets\images\g6.jpg
+wwwroot\Traversal-Liberty\assets\images\g7.jpg
+wwwroot\Traversal-Liberty\assets\images\g8.jpg
+wwwroot\Traversal-Liberty\assets\images\g9.jpg
+wwwroot\Traversal-Liberty\assets\images\img-sprite.png
+wwwroot\Traversal-Liberty\assets\images\team1.jpg
+wwwroot\Traversal-Liberty\assets\images\team2.jpg
+wwwroot\Traversal-Liberty\assets\images\team3.jpg
+wwwroot\Traversal-Liberty\assets\images\team4.jpg
+wwwroot\Traversal-Liberty\assets\js\all.js
+wwwroot\Traversal-Liberty\assets\js\app.js
+wwwroot\Traversal-Liberty\assets\js\bootstrap.min.js
+wwwroot\Traversal-Liberty\assets\js\jquery.countup.js
+wwwroot\Traversal-Liberty\assets\js\jquery.min.js
+wwwroot\Traversal-Liberty\assets\js\jquery.waypoints.min.js
+wwwroot\Traversal-Liberty\assets\js\jquery.zoomslider.min.js
+wwwroot\Traversal-Liberty\assets\js\jquery-3.3.1.min.js
+wwwroot\Traversal-Liberty\assets\js\lightbox-plus-jquery.min.js
+wwwroot\Traversal-Liberty\assets\js\main.js
+wwwroot\Traversal-Liberty\assets\js\modernizr-2.6.2.min.js
+wwwroot\Traversal-Liberty\assets\js\owl.carousel.js
+wwwroot\Traversal-Liberty\assets\js\popper.min.js
+wwwroot\Traversal-Liberty\assets\js\theme-change.js
+wwwroot\Traversal-Liberty\blog.html
+wwwroot\Traversal-Liberty\blog-single.html
+wwwroot\Traversal-Liberty\contact.html
+wwwroot\Traversal-Liberty\index.html
+wwwroot\Traversal-Liberty\landing-single.html
+wwwroot\Traversal-Liberty\liberty-license-W3Layouts.txt
+wwwroot\Traversal-Liberty\pricing.html
+wwwroot\Traversal-Liberty\services.html
 wwwroot\Traversal-Starter\about.html
 wwwroot\Traversal-Starter\assets\css\style-starter.css
 wwwroot\Traversal-Starter\assets\fonts\FontAwesome.otf

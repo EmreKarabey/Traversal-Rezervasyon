@@ -27,7 +27,7 @@ namespace BusinessLayer.Concrete
             _ıguide.Delete(t);
         }
 
-        public Guide GetById(Guide t)
+        public Guide GetById(int id)
         {
             throw new NotImplementedException();
         }

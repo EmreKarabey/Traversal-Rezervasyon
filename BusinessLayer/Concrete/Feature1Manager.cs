@@ -26,7 +26,9 @@ namespace BusinessLayer.Concrete
             _IFeature1Services.Delete(t);
         }
 
-        public Feature1 GetById(Feature1 t)
+  
+
+        public Feature1 GetById(int id)
         {
             throw new NotImplementedException();
         }

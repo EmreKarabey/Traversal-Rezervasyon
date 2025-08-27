@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
+using EntityLayer.Concrete;
 
 namespace DataAccessLayer.Repository
 {
@@ -42,6 +43,15 @@ namespace DataAccessLayer.Repository
             c.Set<T>().Update(t);
 
             c.SaveChanges();
+        }
+
+        public T GetById(int id)
+        {
+            using var c = new Context();
+
+            var gstr = c.Set<T>().Find(id);
+
+            return gstr;
         }
     }
 }

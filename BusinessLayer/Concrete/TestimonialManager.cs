@@ -27,7 +27,8 @@ namespace BusinessLayer.Concrete
             _ITestimonial.Delete(t);
         }
 
-        public Testimonial GetById(Testimonial t)
+   
+        public Testimonial GetById(int id)
         {
             throw new NotImplementedException();
         }

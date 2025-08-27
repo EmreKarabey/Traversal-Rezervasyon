@@ -27,7 +27,9 @@ namespace BusinessLayer.Concrete
             _about2.Delete(t);
         }
 
-        public About2 GetById(About2 t)
+     
+
+        public About2 GetById(int id)
         {
             throw new NotImplementedException();
         }
