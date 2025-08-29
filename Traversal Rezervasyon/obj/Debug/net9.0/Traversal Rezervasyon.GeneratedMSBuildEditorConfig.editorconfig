@@ -28,6 +28,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Comment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -62,6 +66,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Home/_ScriptPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfU2NyaXB0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/Components/_CommentListComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbW1lbnRMaXN0Q29tcG9uZW50XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/Components/_DestinationComponent/Default.cshtml]

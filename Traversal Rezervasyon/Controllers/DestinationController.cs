@@ -20,6 +20,8 @@ namespace Traversal_Rezervasyon.Controllers
             ViewBag.VDetails = destinationManager.SubstringDescription(id);
             ViewBag.V = destinationManager.SplitWord(id);
             var gstr = destinationManager.GetById(id);
+
+            ViewBag.vId = id;
             return View(gstr);
         }
 

@@ -29,5 +29,7 @@ namespace EntityLayer.Concrete
         public string Quotation { get; set; }
         public string Details3 { get; set; }
 
+        public List<Comment> Comments { get; set; }
+
     }
 }
