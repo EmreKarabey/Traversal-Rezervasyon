@@ -3409,6 +3409,8 @@
         "dependencies": {
           "EntityLayer": "1.0.0",
           "FluentValidation.AspNetCore": "11.3.1",
+          "Microsoft.AspNetCore.Identity": "2.3.1",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.8",
           "Microsoft.EntityFrameworkCore": "9.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.8"
         },
@@ -3424,6 +3426,8 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "FluentValidation.AspNetCore": "11.3.1",
+          "Microsoft.AspNetCore.Identity": "2.3.1",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.8",
           "Microsoft.EntityFrameworkCore": "9.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.8"
         },
