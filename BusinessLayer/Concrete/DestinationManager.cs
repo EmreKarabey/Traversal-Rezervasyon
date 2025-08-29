@@ -28,6 +28,8 @@ namespace BusinessLayer.Concrete
             _IDestinationServices.Delete(t);
         }
 
+     
+
         public Destination GetById(int id)
         {
             var gstr = _IDestinationServices.GetById(id);
@@ -42,9 +44,24 @@ namespace BusinessLayer.Concrete
             return gstr;
         }
 
+        public string SplitWord(int id)
+        {
+            var gstr = _IDestinationServices.SplitWord(id);
+
+            return gstr.ToString();
+        }
+
+        public string SubstringDescription(int id)
+        {
+            var gstr = _IDestinationServices.SubstringDescription(id);
+
+            return gstr;
+        }
+
         public void Update(Destination t)
         {
             _IDestinationServices.Update(t);
         }
     }
+  
 }

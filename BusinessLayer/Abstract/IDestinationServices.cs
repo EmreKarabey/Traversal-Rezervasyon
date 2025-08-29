@@ -11,5 +11,8 @@ namespace BusinessLayer.Abstract
 
     public interface IDestinationServices:IGenericServices<Destination>
     {
+        public string SplitWord(int id);
+        public string SubstringDescription(int id);
+     
     }
 }

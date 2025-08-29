@@ -17,8 +17,10 @@ namespace Traversal_Rezervasyon.Controllers
         [HttpGet]
         public IActionResult DestinationDetail(int id)
         {
+            ViewBag.VDetails = destinationManager.SubstringDescription(id);
+            ViewBag.V = destinationManager.SplitWord(id);
             var gstr = destinationManager.GetById(id);
-            return View();
+            return View(gstr);
         }
 
         [HttpPost]

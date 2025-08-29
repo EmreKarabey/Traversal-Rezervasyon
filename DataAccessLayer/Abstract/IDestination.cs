@@ -9,5 +9,9 @@ namespace DataAccessLayer.Abstract
 {
     public interface IDestination:IGeneric<Destination>
     {
+        public string SplitWord(int id);
+
+        public string SubstringDescription(int id);
+        
     }
 }
