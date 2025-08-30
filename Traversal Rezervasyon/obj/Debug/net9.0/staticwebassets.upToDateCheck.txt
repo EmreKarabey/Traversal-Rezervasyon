@@ -1,40 +1,60 @@
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\all.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-reboot.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\css\util.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\css\site.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\main.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\js\popper.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\js\bootstrap.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery.countup.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\lightbox-plus-jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\select2\select2.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\modernizr-2.6.2.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\css-hamburgers\hamburgers.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\fonts\font-awesome-4.7.0\css\font-awesome.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\contact.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\main.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\lightbox-plus-jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\tilt\tilt.jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\about.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\favicon.ico
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\select2\select2.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\fonts\fontawesome-webfont.svg
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-grid.min.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.min.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-grid.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\app.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\js\tooltip.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\fonts\linearicons\selection.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\fonts\linearicons\Read Me.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\theme-change.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-grid.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\services.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery-3.3.1.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\fonts\FontAwesome.otf
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\owl.carousel.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\js\jquery-3.3.1.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\jquery\jquery-3.2.1.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\fonts\font-awesome-4.7.0\fonts\FontAwesome.otf
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation\dist\jquery.validate.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\theme-change.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
@@ -49,24 +69,37 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\modernizr-2.6.2.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\css\style.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\index.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\fonts\linearicons\style.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\fonts\font-awesome-4.7.0\css\font-awesome.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\js\site.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\readme.txt
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\select2\select2.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\bootstrap.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\all.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\blog-single.html
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.min.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\css-hamburgers\hamburgers.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\js\popper.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\jquery.countup.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\js\main.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\services.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\jquery-3.3.1.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\images\icons\favicon.ico
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-reboot.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\landing-single.html
@@ -75,20 +108,24 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\index.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\contact.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\js\main.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\about.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\fonts\linearicons\fonts\Linearicons-Free.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\popper.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\animate\animate.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\liberty-license-W3Layouts.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\fonts\FontAwesome.otf
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery.waypoints.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-reboot.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\owl.carousel.js
@@ -97,17 +134,47 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\css\style-liberty.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation\LICENSE.md
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\index.html
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\js\bootstrap.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-grid.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\css\main.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\index.html
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\fonts\font-awesome-4.7.0\HELP-US-OUT.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\jquery.waypoints.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-reboot.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\fonts\montserrat\OFL.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\popper.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\css\style.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\bootstrap.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\css\style-starter.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery.zoomslider.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\select2\select2.js
+wwwroot\colorlib-regform-26\css\style.css
+wwwroot\colorlib-regform-26\css\style.css.map
+wwwroot\colorlib-regform-26\css\style.scss
+wwwroot\colorlib-regform-26\fonts\linearicons\fonts\Linearicons-Free.eot
+wwwroot\colorlib-regform-26\fonts\linearicons\fonts\Linearicons-Free.svg
+wwwroot\colorlib-regform-26\fonts\linearicons\fonts\Linearicons-Free.ttf
+wwwroot\colorlib-regform-26\fonts\linearicons\fonts\Linearicons-Free.woff
+wwwroot\colorlib-regform-26\fonts\linearicons\fonts\Linearicons-Free.woff2
+wwwroot\colorlib-regform-26\fonts\linearicons\Read Me.txt
+wwwroot\colorlib-regform-26\fonts\linearicons\selection.json
+wwwroot\colorlib-regform-26\fonts\linearicons\style.css
+wwwroot\colorlib-regform-26\fonts\muli\Muli-Bold.ttf
+wwwroot\colorlib-regform-26\fonts\muli\Muli-Regular.ttf
+wwwroot\colorlib-regform-26\fonts\muli\Muli-SemiBold.ttf
+wwwroot\colorlib-regform-26\images\image-1.png
+wwwroot\colorlib-regform-26\images\image-2.png
+wwwroot\colorlib-regform-26\index.html
+wwwroot\colorlib-regform-26\js\jquery-3.3.1.min.js
+wwwroot\colorlib-regform-26\js\main.js
+wwwroot\colorlib-regform-26\readme.txt
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
@@ -171,6 +238,112 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\Login_v1\css\main.css
+wwwroot\Login_v1\css\util.css
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\css\font-awesome.css
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\css\font-awesome.min.css
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\fonts\FontAwesome.otf
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\HELP-US-OUT.txt
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\animated.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\bordered-pulled.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\core.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\fixed-width.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\font-awesome.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\icons.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\larger.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\list.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\mixins.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\path.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\rotated-flipped.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\screen-reader.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\stacked.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\less\variables.less
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_animated.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_core.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_fixed-width.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_icons.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_larger.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_list.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_mixins.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_path.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_screen-reader.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_stacked.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\_variables.scss
+wwwroot\Login_v1\fonts\font-awesome-4.7.0\scss\font-awesome.scss
+wwwroot\Login_v1\fonts\montserrat\Montserrat-Black.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-BlackItalic.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-Bold.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-BoldItalic.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-ExtraBold.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-ExtraBoldItalic.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-ExtraLight.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-ExtraLightItalic.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-Italic.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-Light.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-LightItalic.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-Medium.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-MediumItalic.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-Regular.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-SemiBold.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-SemiBoldItalic.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-Thin.ttf
+wwwroot\Login_v1\fonts\montserrat\Montserrat-ThinItalic.ttf
+wwwroot\Login_v1\fonts\montserrat\OFL.txt
+wwwroot\Login_v1\fonts\poppins\Poppins-Black.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-BlackItalic.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-Bold.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-BoldItalic.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-ExtraBold.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-ExtraBoldItalic.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-ExtraLight.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-ExtraLightItalic.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-Italic.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-Light.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-LightItalic.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-Medium.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-MediumItalic.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-Regular.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-SemiBold.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-SemiBoldItalic.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-Thin.ttf
+wwwroot\Login_v1\fonts\poppins\Poppins-ThinItalic.ttf
+wwwroot\Login_v1\images\icons\favicon.ico
+wwwroot\Login_v1\images\img-01.png
+wwwroot\Login_v1\index.html
+wwwroot\Login_v1\js\main.js
+wwwroot\Login_v1\vendor\animate\animate.css
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.css
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.css.map
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.min.css
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.min.css.map
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-grid.css
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-grid.css.map
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-grid.min.css
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-grid.min.css.map
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-reboot.css
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-reboot.css.map
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-reboot.min.css
+wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-reboot.min.css.map
+wwwroot\Login_v1\vendor\bootstrap\js\bootstrap.js
+wwwroot\Login_v1\vendor\bootstrap\js\bootstrap.min.js
+wwwroot\Login_v1\vendor\bootstrap\js\popper.js
+wwwroot\Login_v1\vendor\bootstrap\js\popper.min.js
+wwwroot\Login_v1\vendor\bootstrap\js\tooltip.js
+wwwroot\Login_v1\vendor\css-hamburgers\hamburgers.css
+wwwroot\Login_v1\vendor\css-hamburgers\hamburgers.min.css
+wwwroot\Login_v1\vendor\jquery\jquery-3.2.1.min.js
+wwwroot\Login_v1\vendor\select2\select2.css
+wwwroot\Login_v1\vendor\select2\select2.js
+wwwroot\Login_v1\vendor\select2\select2.min.css
+wwwroot\Login_v1\vendor\select2\select2.min.js
+wwwroot\Login_v1\vendor\tilt\tilt.jquery.min.js
 wwwroot\Traversal-Liberty\about.html
 wwwroot\Traversal-Liberty\assets\css\style-liberty.css
 wwwroot\Traversal-Liberty\assets\fonts\FontAwesome.otf
