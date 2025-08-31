@@ -30,4 +30,8 @@
     <ProjectReference Include="..\EntitityLaye\EntityLayer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\userimage\" />
+  </ItemGroup>
+
 </Project>

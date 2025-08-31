@@ -454,3 +454,8 @@ wwwroot\Traversal-Starter\contact.html
 wwwroot\Traversal-Starter\index.html
 wwwroot\Traversal-Starter\services.html
 wwwroot\Traversal-Starter\starter-license-W3Layouts.txt
+wwwroot\userimage\0379da28-e413-4b0e-82ad-1919d7e21ea9.pdf
+wwwroot\userimage\811104f5-c83e-4865-9a87-aa5c8456438f.pdf
+wwwroot\userimage\84189201-1111-48e8-9e5d-fb85e343f05d.pdf
+wwwroot\userimage\b418c4f7-ef0d-4e0b-9d8e-f80df52e876a.pdf
+wwwroot\userimage\efeae301-f817-4b14-b8e0-aa9df2d1972f.pdf
