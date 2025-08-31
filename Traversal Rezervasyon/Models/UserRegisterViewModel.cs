@@ -28,6 +28,7 @@ namespace Traversal_Rezervasyon.Models
         [Required(ErrorMessage = "Lütfen Resim Alanını Boş Bırakmayın")]
         public string ImageURL { get; set; }
 
+        [Required(ErrorMessage ="Lütfen Resim Alanını Boş Bırakmayın")]
         public IFormFile Image { get; set; }
 
 

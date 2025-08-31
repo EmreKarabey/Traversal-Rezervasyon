@@ -1,90 +1,139 @@
 ﻿@model Traversal_Rezervasyon.Models.UserRegisterViewModel
 @{
-    ViewData["Title"] = "SignUp";
-    Layout = null;
+	ViewData["Title"] = "SignUp";
+	Layout = null;
 }
 
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+-->
 <!DOCTYPE html>
-<html>
+<html lang="zxx">
+
 <head>
-	<meta charset="utf-8">
-	<title>Traversal Kullanıcı Kayıt Ekranı</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Invent Signup Form Responsive Widget Template | Home :: W3layouts</title>
+	<!-- Meta tag Keywords -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8" />
+	<meta name="keywords"
+		  content="Invent Signup Form Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
 
-	<!-- LINEARICONS -->
-	<link rel="stylesheet" href="~/colorlib-regform-26/fonts/linearicons/style.css">
-
-	<!-- STYLE CSS -->
-	<link rel="stylesheet" href="~/colorlib-regform-26/css/style.css">
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<!-- //Meta tag Keywords -->
+	<!--/Style-CSS -->
+	<link rel="stylesheet" href="~/web/css/style.css" type="text/css" media="all" />
+	<!--//Style-CSS -->
 </head>
 
 <body>
+	<!-- /login-section -->
+	<section class="w3l-login-6">
+		<div class="login-hny">
+			<div class="form-content">
+				<div class="form-right">
+					<div class="overlay">
+						<div class="grid-info-form">
+							<h5>Merhabalar :)</h5>
+							<h3>Hesap Oluştur </h3>
+							<p>
+								Birbirinden deneyimli rehberlerimiz eşliğinde İskandinav ülkelerinin soğuğunu, 
+								Akdeniz ülkelerinin sıcaklığını,
+								güzel ülkemizin Kapadokya’dan Sürmene’ye,
+								Ölüdeniz’den Asos’a, Balkan Turundan Mısır Çöllerine kadar aklınıza gelen her yere bir tık uzaktayız.
+								7 Seyahatlerimize katılmak için hemen kayıt olun...
+							</p>
+							<a href="~/Login/SignIn" class="read-more-1 btn">Başlayalım</a>
+						</div>
 
-	<div class="wrapper">
-		<div class="inner">
-			<img src="~/colorlib-regform-26/images/image-1.png" alt="" class="image-1">
-			<form action="" method="post" enctype="multipart/form-data">
-				<h3>Yeni Hesap</h3>
-				<div class="form-holder">
-					<span class="lnr lnr-user"></span>
-					<input asp-for="Name" type="text" class="form-control" placeholder="Adınız">
-					<span asp-validation-for="Name"></span>
-				</div>
-				<div class="form-holder">
-					<span class="lnr lnr-map"></span>
-					<input asp-for="Surname" type="text" class="form-control" placeholder="Soyadınız">
-					<span asp-validation-for="Surname"></span>
-				</div>
-				<div class="form-holder">
-					<span class="lnr lnr-lock"></span>
-					<input asp-for="UserName" type="text" class="form-control" placeholder="Kullanıcı Adı">
-					<span asp-validation-for="UserName"></span>
-				</div>
-				<div class="form-holder">
-					<span class="lnr lnr-envelope"></span>
-					<input asp-for="Mail" type="text" class="form-control" placeholder="Mail Hesabınız">
-					<span asp-validation-for="Mail"></span>
-				</div>
-				<div class="form-holder">
-					<span class="lnr lnr-phone-handset"></span>
-					<input asp-for="Phone" type="text" class="form-control" placeholder="Telefon Numaranız">
-					<span asp-validation-for="Phone"></span>
-				</div>
-				<div class="form-holder">
-					<span class="lnr lnr‑lighter"></span>
-					<select asp-for="Gender" class="form-control"> <option value="">----Cinsiyet Seçiniz----</option> <option value="Kız">Kız</option> <option value="Erkek">Erkek</option> </select>
-					<span asp-validation-for="Gender"></span>
-				</div>
-				<div class="form-holder">
-					<span class="lnr lnr-lock"></span>
-					<input asp-for="Password" type="password" class="form-control" placeholder="Şifreniz">
-					<span asp-validation-for="Password"></span>
-				</div>
-				<div class="form-holder">
-					<span class="lnr lnr-lock"></span>
-					<input asp-for="ComparePassword" type="password" class="form-control" placeholder="Şifre Tekrarı">
-				</div>
-
-				<div class="form-group">
-			
-					<div class="input-group col-xs-12">
-						<input type="file" asp-for="Image" class="form-control file-upload-info" >
-						
 					</div>
 				</div>
-				
-				<button>
-					<span>Kayıt Ol</span>
-				</button>
-				<button class="form-control">Giriş Yap</button>
+				<div class="form-left">
+					<div class="middle">
+						<h4>Bize Katıl</h4>
+						<p>Ücretsiz Bir Şekilde Hesabını Oluşturabilirsin.</p>
+					</div>
+					<form method="post" class="signin-form" enctype="multipart/form-data">
+						<div class="form-input">
+							<label>Name</label>
+							<input type="text" asp-for="Name" placeholder="İsim" />
+							<span asp-validation-for="Name" class="text-danger"></span>
+						</div>
+						<div class="form-input">
+							<label>Soyisim</label>
+							<input type="text" asp-for="Surname" placeholder="Soyisim" />
+							<span asp-validation-for="Surname" class="text-danger"></span>
+						</div>
+						<div class="form-input">
+							<label>E-Mail</label>
+							<input type="email" asp-for="Mail" placeholder="E-Mail" />
+							<span asp-validation-for="Mail" class="text-danger"></span>
+						</div>
 
-			</form>
-			<img src="~/colorlib-regform-26/images/image-2.png" alt="" class="image-2">
+						<div class="form-input">
+							<label>Cinsiyet</label>
+							<select type="text" asp-for="Gender" placeholder="Cinsiyet"><option value="">--------Cinsiyet--------</option><option value="Kız">Kız</option> <option value="Erkek">Erkek</option></select>
+							<span asp-validation-for="Gender" class="text-danger"></span>
+						</div>
+
+						<div class="form-input">
+							<label>Kullanıcı Adı</label>
+							<input type="text" class="form-group" asp-for="UserName" placeholder="Kullanıcı Adı" />
+							<span asp-validation-for="UserName" class="text-danger"></span>
+						</div>
+
+						<div class="form-input">
+							<label>Telefon Numarası</label>
+							<input type="text" class="form-group" asp-for="Phone" placeholder="Telefon Numarası" />
+							<span asp-validation-for="Phone" class="text-danger"></span>
+						</div>
+
+						<div class="form-input">
+							<label>Şifre</label>
+							<input type="password" class="form-group" asp-for="Password" placeholder="Şifre" />
+							<span asp-validation-for="Password" class="text-danger"></span>
+						</div>
+
+						<div class="form-input">
+							<label>Şifre Tekrarı</label>
+							<input type="password" class="form-group" asp-for="ComparePassword" placeholder="Şifre Tekrarı" />
+							<span asp-validation-for="ComparePassword" class="text-danger"></span>
+						</div>
+
+						<div class="form-input">
+							<label>Profil Resmi</label>
+							<input type="file" asp-for="Image" class="file-upload-default">
+							<span asp-validation-for="Image" class="text-danger"></span>
+
+						</div>
+
+						<label class="container">
+							<label>Şartları Okudum Kabul Ediyorum </label>
+							<input type="checkbox">
+							<span class="checkmark"></span>
+						</label>
+						<button type="submit" class="btn">Hesap Oluştur</button>
+					</form>
+					<div class="copy-right text-center">
+						<p>
+							© @DateTime.Now.Year Tüm Hakları Saklıdır
+
+						</p>
+					</div>
+				</div>
+
+			</div>
+
 		</div>
-		
-	</div>
+	</section>
+	<!-- //login-section -->
+</body>
 
-	<script src="~/colorlib-regform-26/js/jquery-3.3.1.min.js"></script>
-	<script src="~/colorlib-regform-26/js/main.js"></script>
-</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 </html>

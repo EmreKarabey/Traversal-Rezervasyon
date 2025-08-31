@@ -17,6 +17,7 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\modernizr-2.6.2.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\web\css\style.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\css-hamburgers\hamburgers.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
@@ -83,6 +84,7 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\all.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\blog-single.html
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\web\index.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\css-hamburgers\hamburgers.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
@@ -129,6 +131,7 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\owl.carousel.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\web\w3layouts-license.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\css\style-liberty.css
@@ -455,7 +458,15 @@ wwwroot\Traversal-Starter\index.html
 wwwroot\Traversal-Starter\services.html
 wwwroot\Traversal-Starter\starter-license-W3Layouts.txt
 wwwroot\userimage\0379da28-e413-4b0e-82ad-1919d7e21ea9.pdf
+wwwroot\userimage\3662840a-21f3-4af4-bb71-e87f21799977.pdf
 wwwroot\userimage\811104f5-c83e-4865-9a87-aa5c8456438f.pdf
 wwwroot\userimage\84189201-1111-48e8-9e5d-fb85e343f05d.pdf
+wwwroot\userimage\90d70c8e-178c-4056-bb06-9d45d37a85b5.pdf
 wwwroot\userimage\b418c4f7-ef0d-4e0b-9d8e-f80df52e876a.pdf
+wwwroot\userimage\bfb00478-5ac8-4e74-9c49-27242c2f16de.pdf
 wwwroot\userimage\efeae301-f817-4b14-b8e0-aa9df2d1972f.pdf
+wwwroot\userimage\f5bf3e9e-2596-4e4b-8839-7a433691936c.pdf
+wwwroot\web\css\style.css
+wwwroot\web\images\banner1.jpg
+wwwroot\web\index.html
+wwwroot\web\w3layouts-license.txt
