@@ -32,6 +32,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xDb21tZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Members/Views/Destination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xEZXN0aW5hdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Comment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,6 +50,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/DashboardPartial/_NavbarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkUGFydGlhbFxfTmF2YmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/DashboardPartial/_RightbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkUGFydGlhbFxfUmlnaHRiYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/DashboardPartial/_ScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkUGFydGlhbFxfU2NyaXB0UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/DashboardPartial/_SidebarPartial.cshtml]
