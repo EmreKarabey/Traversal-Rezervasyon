@@ -64,7 +64,7 @@ namespace Traversal_Rezervasyon.Controllers
 
                 if (results.Succeeded)
                 {
-                    return RedirectToAction("SignIn");
+                    return RedirectToAction("Index","SignIN");
                 }
                 else
                 {
@@ -79,10 +79,6 @@ namespace Traversal_Rezervasyon.Controllers
         }
 
 
-        [HttpGet]
-        public IActionResult SignIn()
-        {
-            return View();
-        }
+       
     }
 }
