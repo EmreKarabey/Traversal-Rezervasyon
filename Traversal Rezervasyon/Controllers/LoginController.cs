@@ -75,7 +75,7 @@ namespace Traversal_Rezervasyon.Controllers
                 }
 
             }
-            return View(appUser);
+            return View(p);
         }
 
 

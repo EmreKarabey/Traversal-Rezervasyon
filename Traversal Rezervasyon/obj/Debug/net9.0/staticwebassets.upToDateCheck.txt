@@ -1,4 +1,5 @@
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.svg
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\package.json
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\all.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-reboot.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
@@ -13,22 +14,34 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery.countup.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\lightbox-plus-jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\core\popper.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\select2\select2.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\plugins\chartjs.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\pages\profile.html
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\plugins\smooth-scrollbar.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\modernizr-2.6.2.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\web\css\style.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\css-hamburgers\hamburgers.min.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\plugins\fullcalendar.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\img\down-arrow-dark.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\fonts\font-awesome-4.7.0\css\font-awesome.min.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-webdev.svg
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\pages\sign-up.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\contact.html
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-invision.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\main.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\lightbox-plus-jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\tilt\tilt.jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\about.html
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\css\soft-ui-dashboard.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\core\bootstrap.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-slack.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\favicon.ico
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\select2\select2.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\fonts\fontawesome-webfont.svg
@@ -43,6 +56,7 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\fonts\linearicons\selection.json
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\fonts\linearicons\Read Me.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\gulpfile.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\theme-change.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-grid.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\services.html
@@ -50,6 +64,7 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery-3.3.1.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\fonts\FontAwesome.otf
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\owl.carousel.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\CHANGELOG.md
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\js\jquery-3.3.1.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\jquery\jquery-3.2.1.min.js
@@ -68,12 +83,17 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\pricing.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\starter-license-W3Layouts.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\modernizr-2.6.2.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\img\shapes\waves-white.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\css\style.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\soft-ui-dashboard.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\index.html
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-spotify.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-xd.svg
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\css\nucleo-svg.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\fonts\linearicons\style.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\fonts\font-awesome-4.7.0\css\font-awesome.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\js\site.js
@@ -82,16 +102,19 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\select2\select2.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\bootstrap.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\all.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\pages\sign-in.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\blog-single.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\web\index.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap.min.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\pages\virtual-reality.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\css-hamburgers\hamburgers.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\js\popper.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\jquery.countup.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\js\main.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\pages\tables.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
@@ -100,18 +123,22 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\jquery-3.3.1.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\images\icons\favicon.ico
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\fonts\nucleo-icons.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-reboot.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\pages\billing.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\landing-single.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\app.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\index.html
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\img\down-arrow.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\contact.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\js\main.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\ISSUE_TEMPLATE.md
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\about.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\jquery.min.js
@@ -119,10 +146,14 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\fonts\linearicons\fonts\Linearicons-Free.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\plugins\perfect-scrollbar.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\pages\rtl.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\popper.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\pages\dashboard.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\animate\animate.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\docs\documentation.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\liberty-license-W3Layouts.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\fonts\FontAwesome.otf
@@ -132,16 +163,23 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\owl.carousel.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\web\w3layouts-license.txt
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-jira.svg
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\plugins\choices.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\css\style-liberty.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\css\soft-ui-dashboard.min.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\index.html
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\js\bootstrap.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-grid.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\css\nucleo-icons.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\soft-ui-dashboard.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\soft-ui-dashboard.js.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-atlassian.svg
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\css\main.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\index.html
@@ -149,8 +187,12 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\jquery.waypoints.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\bootstrap\css\bootstrap-reboot.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\plugins\Chart.extension.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\fonts\montserrat\OFL.txt
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Starter\assets\js\popper.min.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\css\soft-ui-dashboard.css.map
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\assets\js\plugins\bootstrap-notify.js
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\soft-ui-dashboard\README.md
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\colorlib-regform-26\css\style.css.map
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\bootstrap.min.js
@@ -347,6 +389,288 @@ wwwroot\Login_v1\vendor\select2\select2.js
 wwwroot\Login_v1\vendor\select2\select2.min.css
 wwwroot\Login_v1\vendor\select2\select2.min.js
 wwwroot\Login_v1\vendor\tilt\tilt.jquery.min.js
+wwwroot\soft-ui-dashboard\.gitattributes
+wwwroot\soft-ui-dashboard\assets\css\nucleo-icons.css
+wwwroot\soft-ui-dashboard\assets\css\nucleo-svg.css
+wwwroot\soft-ui-dashboard\assets\css\soft-ui-dashboard.css
+wwwroot\soft-ui-dashboard\assets\css\soft-ui-dashboard.css.map
+wwwroot\soft-ui-dashboard\assets\css\soft-ui-dashboard.min.css
+wwwroot\soft-ui-dashboard\assets\fonts\nucleo.eot
+wwwroot\soft-ui-dashboard\assets\fonts\nucleo.ttf
+wwwroot\soft-ui-dashboard\assets\fonts\nucleo.woff
+wwwroot\soft-ui-dashboard\assets\fonts\nucleo.woff2
+wwwroot\soft-ui-dashboard\assets\fonts\nucleo-icons.eot
+wwwroot\soft-ui-dashboard\assets\fonts\nucleo-icons.svg
+wwwroot\soft-ui-dashboard\assets\fonts\nucleo-icons.ttf
+wwwroot\soft-ui-dashboard\assets\fonts\nucleo-icons.woff
+wwwroot\soft-ui-dashboard\assets\fonts\nucleo-icons.woff2
+wwwroot\soft-ui-dashboard\assets\img\apple-icon.png
+wwwroot\soft-ui-dashboard\assets\img\bruce-mars.jpg
+wwwroot\soft-ui-dashboard\assets\img\curved-images\curved0.jpg
+wwwroot\soft-ui-dashboard\assets\img\curved-images\curved1.jpg
+wwwroot\soft-ui-dashboard\assets\img\curved-images\curved14.jpg
+wwwroot\soft-ui-dashboard\assets\img\curved-images\curved6.jpg
+wwwroot\soft-ui-dashboard\assets\img\curved-images\curved8.jpg
+wwwroot\soft-ui-dashboard\assets\img\curved-images\white-curved.jpeg
+wwwroot\soft-ui-dashboard\assets\img\down-arrow.svg
+wwwroot\soft-ui-dashboard\assets\img\down-arrow-dark.svg
+wwwroot\soft-ui-dashboard\assets\img\favicon.png
+wwwroot\soft-ui-dashboard\assets\img\home-decor-1.jpg
+wwwroot\soft-ui-dashboard\assets\img\home-decor-2.jpg
+wwwroot\soft-ui-dashboard\assets\img\home-decor-3.jpg
+wwwroot\soft-ui-dashboard\assets\img\illustrations\rocket-white.png
+wwwroot\soft-ui-dashboard\assets\img\ivana-square.jpg
+wwwroot\soft-ui-dashboard\assets\img\ivancik.jpg
+wwwroot\soft-ui-dashboard\assets\img\kal-visuals-square.jpg
+wwwroot\soft-ui-dashboard\assets\img\logo-ct.png
+wwwroot\soft-ui-dashboard\assets\img\logos\mastercard.png
+wwwroot\soft-ui-dashboard\assets\img\logos\visa.png
+wwwroot\soft-ui-dashboard\assets\img\marie.jpg
+wwwroot\soft-ui-dashboard\assets\img\shapes\waves-white.svg
+wwwroot\soft-ui-dashboard\assets\img\small-logos\icon-sun-cloud.png
+wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-atlassian.svg
+wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-invision.svg
+wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-jira.svg
+wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-slack.svg
+wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-spotify.svg
+wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-webdev.svg
+wwwroot\soft-ui-dashboard\assets\img\small-logos\logo-xd.svg
+wwwroot\soft-ui-dashboard\assets\img\team-1.jpg
+wwwroot\soft-ui-dashboard\assets\img\team-2.jpg
+wwwroot\soft-ui-dashboard\assets\img\team-3.jpg
+wwwroot\soft-ui-dashboard\assets\img\team-4.jpg
+wwwroot\soft-ui-dashboard\assets\img\vr-bg.jpg
+wwwroot\soft-ui-dashboard\assets\js\core\bootstrap.min.js
+wwwroot\soft-ui-dashboard\assets\js\core\popper.min.js
+wwwroot\soft-ui-dashboard\assets\js\plugins\bootstrap-notify.js
+wwwroot\soft-ui-dashboard\assets\js\plugins\Chart.extension.js
+wwwroot\soft-ui-dashboard\assets\js\plugins\chartjs.min.js
+wwwroot\soft-ui-dashboard\assets\js\plugins\choices.min.js
+wwwroot\soft-ui-dashboard\assets\js\plugins\fullcalendar.min.js
+wwwroot\soft-ui-dashboard\assets\js\plugins\perfect-scrollbar.min.js
+wwwroot\soft-ui-dashboard\assets\js\plugins\smooth-scrollbar.min.js
+wwwroot\soft-ui-dashboard\assets\js\soft-ui-dashboard.js
+wwwroot\soft-ui-dashboard\assets\js\soft-ui-dashboard.js.map
+wwwroot\soft-ui-dashboard\assets\js\soft-ui-dashboard.min.js
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_accordion.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_alert.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_avatars.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_backgrounds.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_badge.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_breadcrumbs.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_buttons.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_cards.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_cards-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_components.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_dropdown.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_dropdown-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_dropup.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_fixed-plugin.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_floating-elements.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_footer.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_forms.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_gradients.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_header.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_info-areas.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_list-check.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_misc.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_misc-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_nav.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_navbar.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_navbar-vertical.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_navbar-vertical-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_pagination.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_popovers.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_progress.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_rtl.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_rtl-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_social-buttons.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_tables.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_tilt.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_timeline.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_tooltips.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_typography.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_utilities.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_utilities-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\_variables.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\badges\_badge.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\badges\_badge-circle.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\badges\_badge-dot.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\badges\_badge-floating.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_accordion.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_alert.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_badge.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_breadcrumb.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_button-group.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_buttons.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_card.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_carousel.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_close.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_containers.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_dropdown.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_forms.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_functions.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_grid.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_helpers.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_images.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_list-group.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_mixins.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_modal.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_nav.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_navbar.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_offcanvas.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_pagination.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_popover.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_progress.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_reboot.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_root.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_spinners.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_tables.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_toasts.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_tooltip.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_transitions.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_type.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_utilities.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\_variables.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\bootstrap.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\bootstrap-grid.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\bootstrap-reboot.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\bootstrap-utilities.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\forms\_floating-labels.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\forms\_form-check.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\forms\_form-control.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\forms\_form-range.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\forms\_form-select.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\forms\_form-text.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\forms\_input-group.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\forms\_labels.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\forms\_validation.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\helpers\_clearfix.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\helpers\_colored-links.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\helpers\_position.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\helpers\_ratio.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\helpers\_stretched-link.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\helpers\_text-truncation.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\helpers\_visually-hidden.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_alert.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_border-radius.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_box-shadow.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_breakpoints.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_buttons.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_caret.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_clearfix.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_color-scheme.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_container.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_deprecate.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_forms.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_gradients.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_grid.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_image.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_list-group.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_lists.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_pagination.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_reset-text.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_resize.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_table-variants.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_text-truncate.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_transition.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_utilities.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\mixins\_visually-hidden.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\utilities\_api.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\bootstrap\vendor\_rfs.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\cards\card-background.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\cards\card-blog.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\cards\card-horizontal.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\cards\card-pricing.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\cards\card-profile.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\custom\_styles.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\custom\_variables.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\forms\_form-check.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\forms\_forms.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\forms\_form-select.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\forms\_form-switch.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\forms\_input-group.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\forms\_inputs.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\forms\_labels.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\mixins\_badge.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\mixins\_colored-shadows.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\mixins\_hover.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\mixins\_social-buttons.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\mixins\mixins.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\free\_flatpickr.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\free\_nouislider.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\free\_perfect-scrollbar.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\free\_prism.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\free\plugins.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_carousel-slick.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_choices.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_datatable.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_datatable-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_dragula.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_dropzone.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_fullcalendar.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_fullcalendar-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_glidejs.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_highlight.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_kanban.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_leaflet.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_list-check.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_photoswipe.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_quill.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_rating-widget.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_sweetalert2.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\_sweetalert2-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\multi-step.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\plugins\pro\plugins-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\theme.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\theme-pro.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_animations.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_avatars.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_badge.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_breadcrumb.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_cards.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_cards-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_choices.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_dropdowns.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_fixed-plugin.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_form-switch.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_full-calendar.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_header.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_info-areas.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_misc.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_misc-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_navbar.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_navbar-vertical.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_pagination.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_rtl.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_social-buttons.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_table.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_timeline.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_utilities.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_utilities-extend.scss
+wwwroot\soft-ui-dashboard\assets\scss\soft-ui-dashboard\variables\_virtual-reality.scss
+wwwroot\soft-ui-dashboard\CHANGELOG.md
+wwwroot\soft-ui-dashboard\docs\documentation.html
+wwwroot\soft-ui-dashboard\gulpfile.js
+wwwroot\soft-ui-dashboard\ISSUE_TEMPLATE.md
+wwwroot\soft-ui-dashboard\LICENSE
+wwwroot\soft-ui-dashboard\media\soft-ui-dashboard-intro.gif
+wwwroot\soft-ui-dashboard\media\soft-ui-dashboard-screen.png
+wwwroot\soft-ui-dashboard\media\soft-ui-dashboard-screen-billing.png
+wwwroot\soft-ui-dashboard\media\soft-ui-dashboard-screen-login.png
+wwwroot\soft-ui-dashboard\media\soft-ui-dashboard-screen-profile.png
+wwwroot\soft-ui-dashboard\media\soft-ui-dashboard-screen-rtl.png
+wwwroot\soft-ui-dashboard\package.json
+wwwroot\soft-ui-dashboard\pages\billing.html
+wwwroot\soft-ui-dashboard\pages\dashboard.html
+wwwroot\soft-ui-dashboard\pages\profile.html
+wwwroot\soft-ui-dashboard\pages\rtl.html
+wwwroot\soft-ui-dashboard\pages\sign-in.html
+wwwroot\soft-ui-dashboard\pages\sign-up.html
+wwwroot\soft-ui-dashboard\pages\tables.html
+wwwroot\soft-ui-dashboard\pages\virtual-reality.html
+wwwroot\soft-ui-dashboard\README.md
 wwwroot\Traversal-Liberty\about.html
 wwwroot\Traversal-Liberty\assets\css\style-liberty.css
 wwwroot\Traversal-Liberty\assets\fonts\FontAwesome.otf
@@ -458,12 +782,19 @@ wwwroot\Traversal-Starter\index.html
 wwwroot\Traversal-Starter\services.html
 wwwroot\Traversal-Starter\starter-license-W3Layouts.txt
 wwwroot\userimage\0379da28-e413-4b0e-82ad-1919d7e21ea9.pdf
+wwwroot\userimage\08c9736f-1fbf-429e-b4d7-60e0ff9f89f0.pdf
+wwwroot\userimage\1d1c506b-2508-42bf-ac0d-6bf7bfcaa4b7.pdf
+wwwroot\userimage\201f39c8-d59e-4666-8389-4c904d542469.pdf
 wwwroot\userimage\3662840a-21f3-4af4-bb71-e87f21799977.pdf
+wwwroot\userimage\50da5c61-9f03-4e0d-a2fa-1708ce1f8b39.pdf
 wwwroot\userimage\811104f5-c83e-4865-9a87-aa5c8456438f.pdf
 wwwroot\userimage\84189201-1111-48e8-9e5d-fb85e343f05d.pdf
+wwwroot\userimage\8d102107-abc1-4dac-be11-8e405af3d054.pdf
 wwwroot\userimage\90d70c8e-178c-4056-bb06-9d45d37a85b5.pdf
 wwwroot\userimage\b418c4f7-ef0d-4e0b-9d8e-f80df52e876a.pdf
 wwwroot\userimage\bfb00478-5ac8-4e74-9c49-27242c2f16de.pdf
+wwwroot\userimage\ccfb9f20-1be7-4b23-811b-7c92d4a6c431.pdf
+wwwroot\userimage\dc67cdac-aa04-4904-8d80-306b2664bb71.pdf
 wwwroot\userimage\efeae301-f817-4b14-b8e0-aa9df2d1972f.pdf
 wwwroot\userimage\f5bf3e9e-2596-4e4b-8839-7a433691936c.pdf
 wwwroot\web\css\style.css
