@@ -32,7 +32,6 @@
 
   <ItemGroup>
     <Folder Include="Areas\Members\Data\" />
-    <Folder Include="Areas\Members\Models\" />
     <Folder Include="wwwroot\soft-ui-dashboard\.git\objects\info\" />
     <Folder Include="wwwroot\soft-ui-dashboard\.git\objects\pack\" />
     <Folder Include="wwwroot\soft-ui-dashboard\.git\refs\tags\" />
