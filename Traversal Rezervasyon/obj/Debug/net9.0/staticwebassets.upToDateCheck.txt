@@ -795,6 +795,7 @@ wwwroot\userimage\90d70c8e-178c-4056-bb06-9d45d37a85b5.pdf
 wwwroot\userimage\b418c4f7-ef0d-4e0b-9d8e-f80df52e876a.pdf
 wwwroot\userimage\bfb00478-5ac8-4e74-9c49-27242c2f16de.pdf
 wwwroot\userimage\ccfb9f20-1be7-4b23-811b-7c92d4a6c431.pdf
+wwwroot\userimage\d4f8f768-4527-4fc3-9231-268c22acbbbf.png
 wwwroot\userimage\dc67cdac-aa04-4904-8d80-306b2664bb71.pdf
 wwwroot\userimage\eaf485d6-1667-4152-a196-341572407dff.png
 wwwroot\userimage\efeae301-f817-4b14-b8e0-aa9df2d1972f.pdf

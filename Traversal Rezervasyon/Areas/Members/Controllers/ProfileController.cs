@@ -75,15 +75,16 @@ namespace Traversal_Rezervasyon.Areas.Members.Controllers
 
             gstr.Gender = p.Gender;
 
-            gstr.Id = p.Id;
-
             gstr.PhoneNumber = p.Phone;
+
+
+            gstr.PasswordHash = _userManager.PasswordHasher.HashPassword(gstr, p.Password);
 
             var results = await _userManager.UpdateAsync(gstr);
 
             if (results.Succeeded)
             {
-                return RedirectToAction();
+                return RedirectToAction("Index", "SignIn", new {area=""});
             }
             else
             {
@@ -92,6 +93,11 @@ namespace Traversal_Rezervasyon.Areas.Members.Controllers
                     ModelState.AddModelError("", item.Description);
                 }
             }
+
+
+
+
+
             return View(p);
         }
     }
