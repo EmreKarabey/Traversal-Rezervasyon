@@ -42,5 +42,15 @@ namespace Traversal_Rezervasyon.Areas.Members.Controllers
             return View();
 
         }
+
+        public IActionResult MyCurrentReservation()
+        {
+            return View();
+        }
+
+        public IActionResult MyOldReservation()
+        {
+            return View();
+        }
     }
 }

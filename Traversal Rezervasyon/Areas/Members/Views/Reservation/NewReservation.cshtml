@@ -28,7 +28,7 @@
 					<label for="exampleInputName1">Tarih ?</label>
 					<input type="date" asp-for="ReservationDateTime" class="form-control">
 				</div>
-				<button type="submit" class="btn btn-success mr-2" >Rezervayon Yap</button>
+				<button type="submit" class="btn btn-success mr-2" onclick="showmessage()">Rezervayon Yap</button>
 				<button class="btn btn-light">İptal</button>
 			</form>
 		</div>
@@ -38,3 +38,9 @@
 	window.onload=(function () {
 		alert('Rezervasyonunuz başlangıçta onay bekliyor şeklinde alınacaktır.Rezervasyon onaylanma süreci için "Güncel Rezervasyonlarım" menusunu takip etmeyi unutmayın.');
 	});</script>
+
+<script>
+	function showmessage(){
+		alert('Başarılı Bir Şekilde Rezervasyon Yapıldı');
+	};
+</script>
