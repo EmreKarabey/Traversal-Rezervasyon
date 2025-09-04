@@ -1,0 +1,40 @@
+﻿@model EntityLayer.Concrete.Reservation
+@{
+	ViewData["Title"] = "NewReservation";
+	Layout = "~/Views/Shared/_MemberUILayout.cshtml";
+}
+
+
+<div class="col-12 grid-margin stretch-card">
+	<div class="card">
+		<div class="card-body">
+			<h4 class="card-title">Rezervasyon İşlem Sayfası</h4>
+			<form class="forms-sample" method="post">
+				<div class="form-group">
+					<label for="exampleInputName1">Kaç Kişisiniz ?</label>
+					<input type="text" asp-for="PersonCount" class="form-control" id="exampleInputName1" placeholder="Kaç Kişisiniz ?">
+				</div>
+				<div class="form-group">
+					<label for="exampleInputName1">Rezervasyon Yeri</label>
+					<select type="text" class="form-control" asp-for="DestinationID" id="exampleInputName1">
+						@await Component.InvokeAsync("_SelectDestinationComponent")
+					</select>
+				</div>
+				<div class="form-group">
+					<label for="exampleInputPassword4">Açıklama</label>
+					<input type="text" asp-for="Description" class="form-control" id="exampleInputName1" placeholder="Açıklama">
+				</div>
+				<div class="form-group">
+					<label for="exampleInputName1">Tarih ?</label>
+					<input type="date" asp-for="ReservationDateTime" class="form-control">
+				</div>
+				<button type="submit" class="btn btn-success mr-2" >Rezervayon Yap</button>
+				<button class="btn btn-light">İptal</button>
+			</form>
+		</div>
+	</div>
+</div>
+<script>
+	window.onload=(function () {
+		alert('Rezervasyonunuz başlangıçta onay bekliyor şeklinde alınacaktır.Rezervasyon onaylanma süreci için "Güncel Rezervasyonlarım" menusunu takip etmeyi unutmayın.');
+	});</script>

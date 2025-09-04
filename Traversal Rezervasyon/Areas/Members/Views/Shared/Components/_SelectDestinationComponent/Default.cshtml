@@ -1,0 +1,9 @@
+﻿@using EntityLayer.Concrete
+@model List<Destination>
+
+	@foreach (var item in Model)
+	{
+		<option value="@item.DestinationID">@item.City</option> 
+
+	}
+	
