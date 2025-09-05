@@ -9,5 +9,11 @@ namespace BusinessLayer.Abstract
 {
     public interface IReservationServices:IGenericServices<Reservation>
     {
+        
+        public List<Reservation> ApprovalReservation(int id);
+        public List<Reservation> IncludeReservations(int id);
+        public List<Reservation> IncludeCurrentReservations(int id);
+        public List<Reservation> IncludeOldReservations(int id);
+        
     }
 }

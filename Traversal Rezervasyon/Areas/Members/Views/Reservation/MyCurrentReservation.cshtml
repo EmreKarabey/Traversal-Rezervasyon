@@ -1,8 +1,47 @@
-﻿
+﻿@using EntityLayer.Concrete
+
+@model List<Reservation>
 @{
     ViewData["Title"] = "MyCurrentReservation";
     Layout = "~/Views/Shared/_MemberUILayout.cshtml";
+    int count = 0;
 }
 
-<h1>MyCurrentReservation</h1>
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Yeni Rezervasyonlarım</h4>
 
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Ad-Soyad</th>
+                            <th>Kişi Sayısı</th>
+                            <th>Rezervasyon Yeri</th>
+                            <th>Rezervasyon Tarihi</th>
+                            <th>Açıklama</th>
+                            <th>Durum</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            count++;
+                            <tr>
+                                <td> @count </td>
+                                <td> @item.AppUser.Name @item.AppUser.Surname </td>
+                                <td> @item.PersonCount </td>
+                                <td> @item.Destination.City </td>
+                                <td> @item.ReservationDateTime.ToShortDateString() </td>
+                                <td> @item.Description </td>
+                                <td><label class="text-success"> @item.Status </label></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

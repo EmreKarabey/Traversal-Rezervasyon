@@ -13,5 +13,6 @@ namespace BusinessLayer.Abstract
         public void Update(T t);
         public List<T> list();
         public T GetById(int id);
+        
     }
 }

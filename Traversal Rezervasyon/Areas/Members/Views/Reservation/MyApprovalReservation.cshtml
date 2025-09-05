@@ -2,7 +2,7 @@
 
 @model List<Reservation>
 @{
-    ViewData["Title"] = "MyOldReservation";
+    ViewData["Title"] = "MyApprovalReservation";
     Layout = "~/Views/Shared/_MemberUILayout.cshtml";
 
     int count = 0;
@@ -11,8 +11,8 @@
 <div class="col-lg-12 grid-margin stretch-card">
     <div class="card">
         <div class="card-body">
-            <h4 class="card-title">Gemişteki Rezervasyonlarım</h4>
-
+            <h4 class="card-title">Onay Bekleyen Rezervasyonlarım</h4>
+           
             <div class="table-responsive">
                 <table class="table">
                     <thead>
@@ -27,7 +27,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach (var item in Model)
+                        @foreach(var item in Model)
                         {
                             count++;
                             <tr>
@@ -37,7 +37,7 @@
                                 <td> @item.Destination.City </td>
                                 <td> @item.ReservationDateTime.ToShortDateString() </td>
                                 <td> @item.Description </td>
-                                <td><label class="text-warning"> @item.Status </label></td>
+                                <td> <label class="text-danger">@item.Status</label></td>
                             </tr>
                         }
                     </tbody>

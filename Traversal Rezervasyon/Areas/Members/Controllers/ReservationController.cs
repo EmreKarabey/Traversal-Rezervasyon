@@ -1,4 +1,5 @@
-﻿using BusinessLayer.Concrete;
+﻿using System.Threading.Tasks;
+using BusinessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Identity;
@@ -43,14 +44,31 @@ namespace Traversal_Rezervasyon.Areas.Members.Controllers
 
         }
 
-        public IActionResult MyCurrentReservation()
+        public async Task< IActionResult> MyCurrentReservation()
         {
-            return View();
+            var gstr = await _userManager.GetUserAsync(User);
+
+            var nzn =  reservationManager.IncludeCurrentReservations(gstr.Id);
+
+            return View(nzn);
         }
 
-        public IActionResult MyOldReservation()
+        public async Task<IActionResult> MyOldReservation()
         {
-            return View();
+            var gstr = await _userManager.GetUserAsync(User);
+
+            var nzn = reservationManager.IncludeOldReservations(gstr.Id);
+            return View(nzn);
+        }
+
+        public async Task< IActionResult> MyApprovalReservation()
+        {
+            var id = await _userManager.GetUserAsync(User);
+
+            var gstr = reservationManager.IncludeReservations(id.Id);
+
+        
+            return View(gstr);
         }
     }
 }
