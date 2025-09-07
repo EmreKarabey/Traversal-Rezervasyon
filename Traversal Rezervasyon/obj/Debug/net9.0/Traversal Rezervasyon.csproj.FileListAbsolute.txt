@@ -483,7 +483,6 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\qi2kpssbkl-dzbuon8ktz.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\0ocm397lfg-nfiu5jh76p.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\odr56f6ain-mhk7twjr8h.gz
-C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\sswukyqar4-chtdht1vb9.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\4iskvalfl5-dkr4zhmrtk.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\s4to2si18w-6fekf5od4o.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\k06ilr8zpe-zho2sb9pxu.gz
@@ -491,3 +490,4 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\krf0pfaony-sdo55tpfa9.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\yrshmk2zsr-w189za9tn4.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\lqh8qmaxnv-tcnkk028ko.gz
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\sswukyqar4-f8hv8h0968.gz

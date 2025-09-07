@@ -48,7 +48,7 @@ namespace Traversal_Rezervasyon.Areas.Members.Controllers
         {
             var gstr = await _userManager.GetUserAsync(User);
 
-            if (p.ImageURL != null)
+            if (p.Image != null)
             {
                 var resource = Directory.GetCurrentDirectory();
 

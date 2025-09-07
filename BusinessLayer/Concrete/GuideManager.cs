@@ -36,9 +36,12 @@ namespace BusinessLayer.Concrete
         {
             var gstr = _ıguide.list();
 
+            
+
             return gstr;
         }
 
+       
         public void Update(Guide t)
         {
             _ıguide.Update(t);
