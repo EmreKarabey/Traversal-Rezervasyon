@@ -37,5 +37,7 @@ namespace Traversal_Rezervasyon.Models
 
         [Required(ErrorMessage = "Lütfen Kullanıcı Adınızı Boş Bırakmayın")]
         public string UserName { get; set; }
+        public string BackgroundImageURL { get; set; }
+        public IFormFile BackgroundImage { get; set; }
     }
 }

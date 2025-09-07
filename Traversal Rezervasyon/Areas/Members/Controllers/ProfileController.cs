@@ -65,6 +65,22 @@ namespace Traversal_Rezervasyon.Areas.Members.Controllers
                 gstr.ImageURL = imagename;
             }
 
+            var resource2 = Directory.GetCurrentDirectory();
+
+            var extension2 = Path.GetExtension(p.Background.FileName);
+
+            var imagename2 = Guid.NewGuid()+extension2;
+
+            var savelocation2 = resource2 + "/wwwroot/backgroundimage/" + imagename2;
+
+            var stream2 = new FileStream(savelocation2,FileMode.Create);
+
+            await p.Background.CopyToAsync(stream2);
+
+            p.BackgroundImageURL = imagename2;
+
+            gstr.BackgroundImageURL = p.BackgroundImageURL;
+
             gstr.Name = p.Name;
 
             gstr.UserName = p.UserName;

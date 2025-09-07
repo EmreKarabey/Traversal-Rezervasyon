@@ -19,6 +19,7 @@ namespace Traversal_Rezervasyon.Areas.Members.Controllers
 
             ViewBag.VName = Profile.Name + " " + Profile.Surname;
 
+            ViewBag.BackgroundImage = Profile.BackgroundImageURL;
             
 
             ViewBag.ImageURL = Profile.ImageURL;

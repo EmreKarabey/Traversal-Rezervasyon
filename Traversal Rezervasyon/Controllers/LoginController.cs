@@ -55,7 +55,19 @@ namespace Traversal_Rezervasyon.Controllers
             appUser.ImageURL = imagename;
 
 
+            var resource2 = Directory.GetCurrentDirectory();
 
+            var extension2 = Path.GetExtension(p.BackgroundImage.FileName);
+
+            var imagename2 = Guid.NewGuid()+extension2;
+
+            var savelocation2 = resource2 + "/wwwroot/backgroundimage/" + imagename2;
+
+            var stream2 = new FileStream(savelocation2,FileMode.Create);
+
+            await p.BackgroundImage.CopyToAsync(stream2);
+
+            p.BackgroundImageURL = imagename2;
 
 
             if (p.Password == p.ComparePassword)
