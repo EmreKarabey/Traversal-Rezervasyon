@@ -1,0 +1,61 @@
+﻿@model EntityLayer.Concrete.Destination
+@{
+    ViewData["Title"] = "DestinationDetails";
+    Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Tur Detay Sayfası</h4>
+            <form class="forms-sample" method="post">
+                <div class="form-group">
+
+                    <input type="hidden" asp-for="@Model.DestinationID" class="form-control" placeholder="@Model.Price">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Şehir</label>
+                    <input type="text" asp-for="@Model.City" class="form-control" placeholder="@Model.City">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Kaç Gün</label>
+                    <input type="text" asp-for="@Model.DayNight" class="form-control" placeholder="@Model.DayNight">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Ücret</label>
+                    <input type="text" asp-for="@Model.Price" class="form-control" placeholder="@Model.Price">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Resim</label>
+                    <input type="text" asp-for="@Model.Image" class="form-control" placeholder="@Model.Image">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Açıklama</label>
+                    <input type="text" asp-for="@Model.Description" class="form-control" placeholder="@Model.Description">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Kapasite</label>
+                    <input type="text" asp-for="@Model.Capacity" class="form-control" placeholder="@Model.Capacity">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Durum</label>
+                    <select type="text" asp-for="@Model.Status" class="form-control">
+                        @if (Model.Status == true)
+                        {
+                            <option value="1">Doldu</option>
+                            <option value="0">Dolmadı</option>
+                        }
+                        else
+                        {
+                            <option value="0">Dolmadı</option>
+                            <option value="1">Doldu</option>
+                        }
+                    </select>
+                </div>
+                <a href="/Admin/Destination/Index" class="btn btn-danger">Geri</a>
+            </form>
+        </div>
+    </div>
+</div>
+

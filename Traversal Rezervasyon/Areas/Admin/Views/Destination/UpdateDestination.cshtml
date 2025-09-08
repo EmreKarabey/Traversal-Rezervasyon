@@ -1,0 +1,107 @@
+﻿@model EntityLayer.Concrete.Destination
+
+@{
+    ViewData["Title"] = "UpdateDestination";
+    Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Tur Düzenleme Sayfası</h4>
+            <form class="forms-sample" method="post">
+                <div class="form-group">
+                    
+                    <input type="hidden" asp-for="@Model.DestinationID" class="form-control" placeholder="@Model.DestinationID">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Şehir</label>
+                    <input type="text" asp-for="@Model.City" class="form-control" placeholder="@Model.City">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Kaç Gün</label>
+                    <input type="text" asp-for="@Model.DayNight" class="form-control"  placeholder="@Model.DayNight">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Ücret</label>
+                    <input type="text" asp-for="@Model.Price" class="form-control"   placeholder="@Model.Price">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Resim</label>
+                    <input type="text" asp-for="@Model.Image" class="form-control"  placeholder="@Model.Image">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Açıklama</label>
+                    <input type="text" asp-for="@Model.Description" class="form-control"  placeholder="@Model.Description">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Kapasite</label>
+                    <input type="text" asp-for="@Model.Capacity" class="form-control"   placeholder="@Model.Capacity">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Durum</label>
+                    <select type="text" asp-for="@Model.Status" class="form-control"  >
+                        @if (Model.Status==true)
+                        {
+                            <option value="1">Doldu</option> <option value="0">Dolmadı</option>
+                        }
+                        else
+                        {
+                            <option value="0">Dolmadı</option> <option value="1">Doldu</option>
+                        }
+                        </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Kapak Resmi</label>
+                    <input type="text" asp-for="CoverImage" class="form-control" placeholder="Kapak Resmi">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Resim 2</label>
+                    <input type="text" asp-for="Image2" class="form-control" placeholder="Resim 2">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Ana Başlık</label>
+                    <input type="text" asp-for="MainTitle" class="form-control" placeholder="Kapak Resmi">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Başlık 1</label>
+                    <input type="text" asp-for="Title1" class="form-control" placeholder="Başlık 1">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Başlık 2</label>
+                    <input type="text" asp-for="Title2" class="form-control" placeholder="Başlık 2">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Detay 1</label>
+                    <input type="text" asp-for="Details1" class="form-control" placeholder="Detay 1">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Detay 2</label>
+                    <input type="text" asp-for="Details2" class="form-control" placeholder="Detay 2s">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Detay 3</label>
+                    <input type="text" asp-for="Details3" class="form-control" placeholder="Alıntı">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Alıntı</label>
+                    <input type="text" asp-for="Quotation" class="form-control" placeholder="Alıntı">
+                </div>
+
+
+                <button type="submit" class="btn btn-primary mr-2">Güncelle</button>
+                <button class="btn btn-light">İptal</button>
+            </form>
+        </div>
+    </div>
+</div>
