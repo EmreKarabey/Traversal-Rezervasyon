@@ -10,5 +10,6 @@ namespace BusinessLayer.Abstract
     public interface ICommentServices:IGenericServices<Comment>
     {
         public List<Comment> FiltreComments(int id); 
+        public List<Comment> IncludeCommentList(); 
     }
 }

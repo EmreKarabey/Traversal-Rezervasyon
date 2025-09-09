@@ -1,4 +1,8 @@
+using BusinessLayer.Abstract;
+using BusinessLayer.Concrete;
+using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
+using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
@@ -14,6 +18,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<Context>();
 
 builder.Services.AddIdentity<AppUser, AppRole>().AddErrorDescriber<ValidationForPassword>().AddEntityFrameworkStores<Context>().AddDefaultTokenProviders();
+
+builder.Services.AddScoped<ICommentServices, CommentManager>();
+builder.Services.AddScoped<IComment, EFComment>();
 
 builder.Services.AddMvc(config =>
 {

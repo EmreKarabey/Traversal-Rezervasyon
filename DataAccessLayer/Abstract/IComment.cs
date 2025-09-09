@@ -9,5 +9,6 @@ namespace DataAccessLayer.Abstract
 {
     public interface IComment:IGeneric<Comment>
     {
+        public List<Comment> IncludeCommentList();
     }
 }

@@ -24,7 +24,7 @@ namespace BusinessLayer.Concrete
 
         public void Delete(Comment t)
         {
-            throw new NotImplementedException();
+            _comment.Delete(t);
         }
 
         public List<Comment> FiltreComments(int id)
@@ -36,7 +36,16 @@ namespace BusinessLayer.Concrete
 
         public Comment GetById(int id)
         {
-            throw new NotImplementedException();
+            var gstr = _comment.GetById(id);
+
+            return gstr;
+        }
+
+        public List<Comment> IncludeCommentList()
+        {
+            var gstr = _comment.IncludeCommentList();
+
+            return gstr;
         }
 
         public List<Comment> list()
