@@ -25,10 +25,6 @@ namespace Traversal_Rezervasyon.Controllers
             return View(gstr);
         }
 
-        [HttpPost]
-        public IActionResult DestinationDetail(Destination p)
-        {
-            return View();
-        }
+       
     }
 }

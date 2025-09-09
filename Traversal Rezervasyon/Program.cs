@@ -21,7 +21,8 @@ builder.Services.AddIdentity<AppUser, AppRole>().AddErrorDescriber<ValidationFor
 
 builder.Services.AddScoped<ICommentServices, CommentManager>();
 builder.Services.AddScoped<IComment, EFComment>();
-
+builder.Services.AddScoped<IDestinationServices, DestinationManager>();
+builder.Services.AddScoped<IDestination, EFDestination>();
 builder.Services.AddMvc(config =>
 {
     var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
