@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+}
+
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <div class="row">
+            @await Component.InvokeAsync("_AdminUserCardComponent")
+
+            @await Component.InvokeAsync("_AdminStaticsComponent")
+            
+            @await Component.InvokeAsync("_AdminTotalRevenueComponent")
+
+            @await Component.InvokeAsync("_AdminStatics2Component")
+           
+        </div>
+        
+    </div>
+    <div class="row">
+
+        @await Component.InvokeAsync("_AdminDestinationStatisticsComponent")
+
+        @await Component.InvokeAsync("_AdminDestinationStatisticsComponent")
+
+        @await Component.InvokeAsync("_AdminGuideListComponent")
+
+     
+        <!--/ Transactions -->
+    </div>
+    <!-- / Content -->
+    <!-- Footer -->
+
+</div>
+
