@@ -32,7 +32,6 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
-    <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Members\Data\" />
     <Folder Include="wwwroot\backgroundimage\" />
     <Folder Include="wwwroot\soft-ui-dashboard\.git\objects\info\" />

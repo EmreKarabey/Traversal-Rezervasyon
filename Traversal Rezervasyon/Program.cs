@@ -1,5 +1,6 @@
 using BusinessLayer.Abstract;
 using BusinessLayer.Concrete;
+using BusinessLayer.Containers;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
@@ -19,10 +20,8 @@ builder.Services.AddDbContext<Context>();
 
 builder.Services.AddIdentity<AppUser, AppRole>().AddErrorDescriber<ValidationForPassword>().AddEntityFrameworkStores<Context>().AddDefaultTokenProviders();
 
-builder.Services.AddScoped<ICommentServices, CommentManager>();
-builder.Services.AddScoped<IComment, EFComment>();
-builder.Services.AddScoped<IDestinationServices, DestinationManager>();
-builder.Services.AddScoped<IDestination, EFDestination>();
+builder.Services.Containers();
+
 builder.Services.AddMvc(config =>
 {
     var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();

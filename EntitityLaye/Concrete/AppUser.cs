@@ -9,13 +9,13 @@ namespace EntityLayer.Concrete
 {
     public class AppUser : IdentityUser<int>
     {
-        public string ImageURL { get; set; }
+        public string? ImageURL { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
         public string Gender { get; set; }
         public List<AppUser> AppUsers { get; set; }
 
-        public string BackgroundImageURL {get; set;}
+        public string? BackgroundImageURL {get; set;}
    
     }
 }
