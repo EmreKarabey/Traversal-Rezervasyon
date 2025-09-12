@@ -63,6 +63,13 @@ namespace BusinessLayer.Concrete
             return gstr;
         }
 
+        public List<Reservation> LastReservations(int id)
+        {
+           var gstr= _ıreservation.LastReservations(id);
+
+            return gstr;
+        }
+
         public List<Reservation> list()
         {
             throw new NotImplementedException();

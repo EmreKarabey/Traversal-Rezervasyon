@@ -13,6 +13,8 @@ namespace DataAccessLayer.Abstract
         public List<Reservation> IncludeReservations(int id);
         public List<Reservation> IncludeCurrentReservation(int id);
         public List<Reservation> IncludeOldReservation(int id);
-       
+
+        public List<Reservation> LastReservations(int id);
+
     }
 }

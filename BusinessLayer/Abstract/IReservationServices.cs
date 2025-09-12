@@ -14,6 +14,8 @@ namespace BusinessLayer.Abstract
         public List<Reservation> IncludeReservations(int id);
         public List<Reservation> IncludeCurrentReservations(int id);
         public List<Reservation> IncludeOldReservations(int id);
-        
+
+        public List<Reservation> LastReservations(int id);
+
     }
 }

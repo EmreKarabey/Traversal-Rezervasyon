@@ -40,5 +40,13 @@ namespace DataAccessLayer.EntityFramework
 
             return gstr;
         }
+
+        public List<Reservation> LastReservations(int id)
+        {
+            using var c = new Context();
+            var gstr = c.Reservations.Include(n => n.AppUser).Where(N => N.AppUserID == id && N.Status == "Geçmiş Rezervasyon").ToList();
+
+            return gstr;
+        }
     }
 }

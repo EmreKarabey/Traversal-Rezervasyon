@@ -22,6 +22,7 @@
 						<th>Telefon Numarası</th>
 						<th>Sil</th>
 						<th>Yorumlar</th>
+						<th>Geçmiş Turlar</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -37,6 +38,7 @@
 							<td>@item.PhoneNumber</td>
 							<td><a href="/Admin/Destination/DeleteDestination/@item.Id" class="btn btn-outline-danger">Sil</a></td>
 							<td><a href="/Admin/Destination/UpdateDestination/@item.Id" class="btn btn-outline-warning">Güncelle</a></td>
+							<td><a href="/Admin/Reservation/LastReservations/@item.Id" class="btn btn-outline-info">Geçmiş Turlar</a></td>
 						</tr>
 					}
 

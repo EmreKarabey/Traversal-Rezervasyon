@@ -21,6 +21,8 @@ namespace BusinessLayer.Containers
             builder.AddScoped<IDestination, EFDestination>();
             builder.AddScoped<IAppUserServices, AppUserManager>();
             builder.AddScoped<IAppUser, EFAppUser>();
+            builder.AddScoped<IReservationServices, ReservationManager>();
+            builder.AddScoped<IReservation, EFReservation>();
         }
     }
 }
