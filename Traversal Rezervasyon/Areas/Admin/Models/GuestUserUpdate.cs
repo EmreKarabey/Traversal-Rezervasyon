@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using Microsoft.DotNet.Scaffolding.Shared;
 
 namespace Traversal_Rezervasyon.Areas.Admin.Models
 {
-    public class GuestUserAdd
+    public class GuestUserUpdate
     {
+        public int id { get; set; }
         [Required(ErrorMessage = "Lütfen İsim Giriniz")]
         public string Name { get; set; }
 
@@ -13,23 +13,25 @@ namespace Traversal_Rezervasyon.Areas.Admin.Models
         public string Surname { get; set; }
 
 
-        [Required(ErrorMessage ="Lütfen Mail Giriniz")]
+        [Required(ErrorMessage = "Lütfen Mail Giriniz")]
         public string Email { get; set; }
 
-
+        [MinLength(6, ErrorMessage = "Minimum 6 Karakter Uzunluğunda Omalıdır.")]
         [Required(ErrorMessage = "Lütfen Şifre Giriniz")]
-        [MinLength(6,ErrorMessage = "Şifre Minimum 6 Karakter Uzunluğunda Olmalıdır")]
         public string Password { get; set; }
 
 
-        [Required(ErrorMessage ="Lütfen Tekrar Şifrenizi Giriniz")]
-        [Compare("Password",ErrorMessage ="Şifreniz İle Aynı Olmak Zorunda")]
+        [Required(ErrorMessage = "Lütfen Tekrar Şifrenizi Giriniz")]
+        [Compare("Password", ErrorMessage = "Şifreniz İle Aynı Olmak Zorunda")]
         public string ConfirmPasword { get; set; }
 
+
         [Required(ErrorMessage = "Lütfen Telefon Numrasını Giriniz")]
+        [MinLength(11, ErrorMessage = "11 Karakter Uzunluğunda Olmalıdır")]
+        [MaxLength(11, ErrorMessage = "11 Karakter Uzunluğunda Olmalıdır")]
         public string PhoneNumber { get; set; }
 
-     
+
         public string ImageURL { get; set; }
         public IFormFile Image { get; set; }
 

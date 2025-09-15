@@ -1,15 +1,14 @@
-﻿@model Traversal_Rezervasyon.Areas.Admin.Models.GuestUserAdd
+﻿@model Traversal_Rezervasyon.Areas.Admin.Models.GuestUserUpdate
 @{
-	ViewData["Title"] = "UserAdd";
+	ViewData["Title"] = "UpdateUser";
 	Layout = "~/Views/Shared/_AdminUILayout.cshtml";
 }
-
 <div class="col-12 grid-margin stretch-card">
 	<div class="card">
 		<div class="card-body">
 			<h4 class="card-title">Misafir Kullanıcı Ekleme Sayfası</h4>
 			<form class="forms-sample" method="post" autocomplete="off">
-
+				<input type="hidden" class="text-danger" asp-for="id" />
 				<div class="form-group">
 					<label for="exampleInputPassword4">İsim</label>
 					<input type="text" asp-for="Name" class="form-control" placeholder="İsim">
@@ -23,54 +22,55 @@
 				<div class="form-group">
 					<label for="exampleInputPassword4">Kullanıcı Adı</label>
 					<input type="text" asp-for="UserName" class="form-control" placeholder="Kullanıcı Adı">
-					<span class="text-danger" asp-validation-for="@Model.UserName"></span>
+					<span class="text-danger" asp-validation-for="UserName"></span>
 				</div>
 				<div class="form-group">
 					<label for="exampleInputPassword4">E-Mail</label>
 					<input type="email" asp-for="Email" class="form-control" placeholder="E-Mail">
-					<span class="text-danger" asp-validation-for="@Model.Email"></span>
+					<span class="text-danger" asp-validation-for="Email"></span>
 				</div>
 				<div class="form-group">
 					<label for="exampleInputName1">Şifre</label>
 					<input type="password" asp-for="Password" class="form-control" placeholder="Şifre">
-					<span class="text-danger" asp-validation-for="@Model.Password"></span>
+					<span class="text-danger" asp-validation-for="Password"></span>
 				</div>
 				<div class="form-group">
 					<label for="exampleInputName1">Şifre Tekrarı</label>
 					<input type="password" asp-for="ConfirmPasword" class="form-control" placeholder="Şifre Tekrarı">
-					<span class="text-danger" asp-validation-for="@Model.ConfirmPasword"></span>
+					<span class="text-danger" asp-validation-for="ConfirmPasword"></span>
 				</div>
 
 				<div class="form-group">
 					<label for="exampleInputName1">Telefon Numarsı</label>
 					<input type="text" asp-for="PhoneNumber" class="form-control" placeholder="Telefon Numarsı">
-					<span class="text-danger" asp-validation-for="@Model.PhoneNumber"></span>
+					<span class="text-danger" asp-validation-for="PhoneNumber"></span>
 				</div>
 
 				<div class="form-group">
 					<label for="exampleInputName1">Cinsiyet</label>
 					<select type="text" asp-for="Gender" class="form-control">
-						<option value="">-----Lütfen Cinsiyet Seçiniz-----</option>
-						<option value="0">Kız</option>
-						<option value="1">Erkek</option>
+						@if (Model.Gender == "Kız")
+						{
+							
+							<option value="Kız">Kız</option>
+							<option value="Erkek">Erkek</option>
+						}
+						else
+						{
+							<option value="Erkek">Erkek</option>
+							<option value="Kız">Kız</option>
+						}
+
 					</select>
 					<span class="text-danger" asp-validation-for="Gender"></span>
 				</div>
 				<div class="text-danger" asp-validation-summary="ModelOnly"></div>
 
-				<button onclick="SuccessAdd()" type="submit" class="btn btn-primary mr-2">Ekle</button>
+				<button type="submit" class="btn btn-primary mr-2">Ekle</button>
 				<button class="btn btn-light">İptal</button>
 			</form>
 		</div>
 	</div>
 </div>
 
-	@if (TempData["SuccessAdd"] != null && (bool) TempData["SuccessAdd"])
-	{<script>
-		function SuccessAdd(){
-		alert('Başarılı Bir Şekilde Kullanıcı Eklenildi')
-	</script>
-		}
-	}
-	
 

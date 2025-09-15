@@ -33,7 +33,25 @@ builder.Services.AddMvc();
 
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddLogging(x =>
+{
+    x.ClearProviders();
+
+    x.SetMinimumLevel(LogLevel.Debug);
+
+    x.AddDebug();
+});
+
+builder.Logging.ClearProviders();
+builder.Logging.AddConsole();
+builder.Logging.AddDebug();
+// Eðer Microsoft.Extensions.Logging.File (veya kullandýðýn AddFile paketi) yüklüyse:
+var logsDir = Path.Combine(builder.Environment.ContentRootPath, "Logs");
+Directory.CreateDirectory(logsDir);
+builder.Logging.AddFile(Path.Combine(logsDir, "app.log")); // veya "log-.txt" paketine göre
+
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

@@ -594,3 +594,10 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\dpdezq45xe-sgabxu717i.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\fvn8bibbbx-97ch3o3u6l.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\rjfqf89wf8-afsz7l0ory.gz
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\Serilog.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\Serilog.Extensions.Logging.File.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\Serilog.Sinks.Async.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\Serilog.Sinks.File.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\Serilog.Sinks.RollingFile.dll

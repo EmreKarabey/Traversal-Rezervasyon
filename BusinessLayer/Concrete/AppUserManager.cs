@@ -24,7 +24,7 @@ namespace BusinessLayer.Concrete
 
         public void Delete(AppUser t)
         {
-            throw new NotImplementedException();
+            _appUser.Delete(t);
         }
 
         public AppUser GetById(int id)

@@ -21,7 +21,7 @@
 						<th>E-Mail</th>
 						<th>Telefon Numarası</th>
 						<th>Sil</th>
-						<th>Yorumlar</th>
+						<th>Güncelle</th>
 						<th>Geçmiş Turlar</th>
 					</tr>
 				</thead>
@@ -36,8 +36,8 @@
 							<td>@item.UserName</td>
 							<td>@item.Email</td>
 							<td>@item.PhoneNumber</td>
-							<td><a href="/Admin/Destination/DeleteDestination/@item.Id" class="btn btn-outline-danger">Sil</a></td>
-							<td><a href="/Admin/Destination/UpdateDestination/@item.Id" class="btn btn-outline-warning">Güncelle</a></td>
+							<td><a href="/Admin/AppUser/UserDelete/@item.Id" class="btn btn-outline-danger"onclick="return confirm('Silmek istediğinize emin misiniz?');">Sil</a></td>
+							<td><a href="/Admin/AppUser/UpdateUser/@item.Id" class="btn btn-outline-warning">Güncelle</a></td>
 							<td><a href="/Admin/Reservation/LastReservations/@item.Id" class="btn btn-outline-info">Geçmiş Turlar</a></td>
 						</tr>
 					}
@@ -45,7 +45,10 @@
 
 				</tbody>
 			</table>
-			<a href="/Admin/Destination/AddDestination" class="btn btn-success">Kullanıcı Ekle</a>
+			<a href="/Admin/AppUser/UserAdd" class="btn btn-success">Kullanıcı Ekle</a>
 		</div>
 	</div>
 </div>
+
+
+
