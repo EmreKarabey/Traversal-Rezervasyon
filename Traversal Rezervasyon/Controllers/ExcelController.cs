@@ -1,5 +1,6 @@
 ﻿using ClosedXML.Excel;
 using DataAccessLayer.Concrete;
+using DocumentFormat.OpenXml.Bibliography;
 using Microsoft.AspNetCore.Mvc;
 using Traversal_Rezervasyon.Areas.Admin.Models;
 
@@ -30,6 +31,28 @@ namespace Traversal_Rezervasyon.Controllers
             return excelDestinationModels;
         }
 
+        public List<ExcelCommentModel> excelCommentModels()
+        {
+            List<ExcelCommentModel> excelCommentModels = new List<ExcelCommentModel>();
+
+            using (var c = new Context())
+            {
+                excelCommentModels = c.Comments.Select(n => new ExcelCommentModel
+                {
+                    UserName = n.CommentUser,
+
+                    CommentDate = n.CommentDate,
+
+                    CommentContent = n.CommentContent,
+
+                    Destination = n.Destination.City
+                }).ToList();
+            }
+            return excelCommentModels;
+
+
+        }
+
         public IActionResult ExcelDestination()
         {
             using (var c = new XLWorkbook())
@@ -53,19 +76,55 @@ namespace Traversal_Rezervasyon.Controllers
                     rowcount++;
                 }
 
-                using (var stream =  new MemoryStream())
+                using (var stream = new MemoryStream())
                 {
                     c.SaveAs(stream);
 
                     var content = stream.ToArray();
 
-                    return File(content, "application/vnd.openxmlformats-officedocument.spreadsheethml.sheet",Guid.NewGuid()+".xlsx");
+                    return File(content, "application/vnd.openxmlformats-officedocument.spreadsheethml.sheet", Guid.NewGuid() + ".xlsx");
                 }
             }
-            
-
-           
         }
 
+        public IActionResult ExcelComment()
+        {
+            using (var c = new XLWorkbook())
+            {
+                var worksheet = c.Worksheets.Add("Yorum Listesi");
+
+                worksheet.Cell(1, 1).Value = "Kullanıcı Adı";
+
+                worksheet.Cell(1, 2).Value = "Tarih";
+                worksheet.Cell(1,3).Value = "Yorum";
+                worksheet.Cell(1, 4).Value = "Şehir";
+
+                int rowcount = 2;
+
+                foreach ( var item in excelCommentModels())
+                {
+                    worksheet.Cell(rowcount,1).Value = item.UserName;
+                    worksheet.Cell(rowcount,2).Value = item.CommentDate.ToShortDateString();
+                    worksheet.Cell(rowcount,3).Value = item.CommentContent;
+                    worksheet.Cell(rowcount,4).Value = item.Destination;
+
+                    rowcount++;
+                }
+                
+                using(var stream = new MemoryStream())
+                {
+                    c.SaveAs(stream);
+                    var content = stream.ToArray();
+                    return File(content, "application/vnd.openxmlformats-officedocument.spreadsheethml.sheet",Guid.NewGuid()+".xlsx");
+
+                }
+            }
+           
+
+            
+
+        }
+
+      
     }
 }
