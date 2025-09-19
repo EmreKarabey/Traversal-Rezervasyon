@@ -328,6 +328,12 @@ wwwroot\colorlib-regform-26\js\main.js
 wwwroot\colorlib-regform-26\readme.txt
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\GuideProfileFoto\46a5aac6-01ad-4549-91a9-56230f37aee5.jpg
+wwwroot\GuideProfileFoto\682aa140-0aa0-4da5-a380-586f0e2382ec.jpg
+wwwroot\GuideProfileFoto\fa23a58b-ee05-4efb-8985-9b82298ca66d.png
+wwwroot\GuideProfileFoto\ivana-square.jpg
+wwwroot\GuideProfileFoto\marie.jpg
+wwwroot\GuideProfileFoto\team-3.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

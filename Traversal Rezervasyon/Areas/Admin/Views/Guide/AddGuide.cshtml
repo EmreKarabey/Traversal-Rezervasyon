@@ -1,0 +1,40 @@
+﻿@model Traversal_Rezervasyon.Areas.Admin.Models.AddGuideModel
+@{
+    ViewData["Title"] = "AddGuide";
+    Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+	<div class="card">
+		<div class="card-body">
+			<h4 class="card-title">Tur Ekleme Sayfası</h4>
+			<form class="forms-sample" method="post" enctype="multipart/form-data">
+			
+				<div class="form-group">
+					<label for="exampleInputPassword4">İsim</label>
+					<input type="text" asp-for="Name" class="form-control" placeholder="İsim">
+				</div>
+				<div class="form-group">
+					<label for="exampleInputName1">Açıklama</label>
+					<input type="text" asp-for="Description" class="form-control" placeholder="Açıklama">
+				</div>
+				<div class="form-group">
+					<label for="exampleInputPassword4">Twitter Adresi</label>
+					<input type="text" asp-for="TwitterURL" class="form-control" placeholder="Twitter Adresi">
+				</div>
+				<div class="form-group">
+					<label for="exampleInputPassword4">Instagram Adresi</label>
+					<input type="text" asp-for="InstagramURL" class="form-control" placeholder="Instagram Adresi">
+				</div>
+
+				<div class="form-input">
+					<label>Arka Plan Resmi</label>
+					<input type="file" asp-for="Image" class="file-upload-default">
+				</div>
+				<button type="submit" class="btn btn-primary mr-2">Ekle</button>
+				<button class="btn btn-light">İptal</button>
+			</form>
+		</div>
+	</div>
+</div>
+

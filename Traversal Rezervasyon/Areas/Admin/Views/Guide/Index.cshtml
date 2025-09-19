@@ -5,7 +5,11 @@
 	ViewData["Title"] = "Index";
 	Layout = "~/Views/Shared/_AdminUILayout.cshtml";
 }
-
+<style>
+	img{
+		border-radius:50%
+	}
+</style>
 <div class="col-lg-12 grid-margin stretch-card">
 	<div class="card">
 		<div class="card-body">
@@ -15,7 +19,7 @@
 				<table class="table table-striped">
 					<thead>
 						<tr>
-							<th>#</th#>
+							<th>#</th>
 							<th>Ad-Soyad</th>
 							<th>Açıklama</th>
 							<th>Durum</th>
@@ -28,7 +32,7 @@
 						{
 							<tr>
 								<td class="py-1">
-									<img src="@item.ImageURL" width="75" height="75" alt="image" />
+									<img src="/GuideProfileFoto/@item.ImageURL" width="50" height="50" alt="image" />
 								</td>
 								<td>@item.Name</td>
 								<td>@item.Description</td>
@@ -41,12 +45,13 @@
 									<td><a href="/Admin/Guide/ChangeAktif/@item.GuideID" class="btn btn-success">Aktif Yap</a></td>
 								}
 								<td><a href="/Admin/Guide/DeleteGuide/@item.GuideID" class="btn btn-warning">Sil</a></td>
-								<td><a href="#" class="btn btn-info">Düzenle</a></td>
+								<td><a href="/Admin/Guide/UpdateGuide/@item.GuideID" class="btn btn-info">Düzenle</a></td>
 							</tr>
 						}
 
 					</tbody>
 				</table>
+				<a href="/Admin/Guide/AddGuide" class="btn btn-light">Yeni Tur Rehberi Ekle</a>
 			</div>
 		</div>
 	</div>
