@@ -1,8 +1,9 @@
 ﻿using Azure.Core.GeoJson;
 using BusinessLayer.Abstract;
+using BusinessLayer.ValidationRule;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore.Query.Internal;
+
 using Traversal_Rezervasyon.Areas.Admin.Models;
 
 namespace Traversal_Rezervasyon.Areas.Admin.Controllers
@@ -80,7 +81,7 @@ namespace Traversal_Rezervasyon.Areas.Admin.Controllers
                 InstagramURL = gstr.InstagramURL,
 
                 Status = gstr.Status,
-                
+
             };
 
             return View(p);
@@ -96,22 +97,22 @@ namespace Traversal_Rezervasyon.Areas.Admin.Controllers
 
 
             var gstr = _ıguideservices.GetById(p.id);
-                Guide guide = new Guide()
-                {
-                    GuideID = p.id,
+            Guide guide = new Guide()
+            {
+                GuideID = p.id,
 
-                    Name = p.Name,
+                Name = p.Name,
 
-                    Description = p.Description,
+                Description = p.Description,
 
-                    TwitterURL = p.TwitterURL,
+                TwitterURL = p.TwitterURL,
 
-                    InstagramURL = p.InstagramURL,
+                InstagramURL = p.InstagramURL,
 
-                    Status = gstr.Status,
+                Status = gstr.Status,
 
-                    ImageURL = gstr.ImageURL
-                };
+                ImageURL = gstr.ImageURL
+            };
             if (p.Image != null)
             {
                 var resource = Directory.GetCurrentDirectory();
@@ -128,8 +129,8 @@ namespace Traversal_Rezervasyon.Areas.Admin.Controllers
 
                 guide.ImageURL = imagename;
             }
-                
-            
+
+
 
 
             _ıguideservices.Update(guide);
@@ -144,8 +145,12 @@ namespace Traversal_Rezervasyon.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public async Task< IActionResult> AddGuide(AddGuideModel p)
+        public async Task<IActionResult> AddGuide(AddGuideModel p)
         {
+
+
+         
+
             Guide guide = new Guide()
             {
                 Name = p.Name,
@@ -157,27 +162,33 @@ namespace Traversal_Rezervasyon.Areas.Admin.Controllers
 
                 Status = true
 
-         
+
 
             };
 
             var resource = Directory.GetCurrentDirectory();
-            
+
             var extension = Path.GetExtension(p.Image.FileName);
 
-            var imagename = Guid.NewGuid()+extension;
+            var imagename = Guid.NewGuid() + extension;
 
             var savelocation = resource + "/wwwroot/GuideProfileFoto/" + imagename;
 
-            var stream = new FileStream(savelocation,FileMode.Create);
+            var stream = new FileStream(savelocation, FileMode.Create);
 
             await p.Image.CopyToAsync(stream);
 
             guide.ImageURL = imagename;
 
-            _ıguideservices.Add(guide);
 
-            return RedirectToAction("Index");
+           
+                _ıguideservices.Add(guide);
+
+                return RedirectToAction("Index");
+            
+        
+
+            
         }
 
     }

@@ -501,6 +501,9 @@ wwwroot\Login_v1\vendor\select2\select2.js
 wwwroot\Login_v1\vendor\select2\select2.min.css
 wwwroot\Login_v1\vendor\select2\select2.min.js
 wwwroot\Login_v1\vendor\tilt\tilt.jquery.min.js
+wwwroot\PdfDocumentation\0b75c3f7-6d2b-4109-a915-72b706f0e481.pdf
+wwwroot\PdfDocumentation\32ab20ec-f70f-41ce-b473-9c611b211bf4.pdf
+wwwroot\PdfDocumentation\45c274f6-5f2e-4f03-8fe1-302452b1dc12.pdf
 wwwroot\sneat-1.0.0\.browserslistrc
 wwwroot\sneat-1.0.0\.eslintignore
 wwwroot\sneat-1.0.0\.eslintrc.json
