@@ -32,8 +32,8 @@
 						<tr>
 							<td>@count</td>
 							<td>@item.City</td>
-							<td>@item.Capacity</td>
 							<td>@item.Price</td>
+							<td>@item.Capacity</td>
 							<td><a href="/Destination/DestinationDetail/@item.DestinationID" class="btn btn-outline-success">Sitede Gör</a></td>
 							<td><a href="/Admin/Destination/DeleteDestination/@item.DestinationID" class="btn btn-outline-danger">Sil</a></td>
 							<td><a href="/Admin/Destination/UpdateDestination/@item.DestinationID" class="btn btn-outline-warning">Güncelle</a></td>
@@ -44,8 +44,10 @@
 
 				</tbody>
 			</table>
-			<a href="/Admin/Destination/AddDestination" class="btn btn-success">Tur Ekle</a>
+			<br />
+			<a href="/Admin/Destination/AddDestination" class="btn btn-warning">Tur Ekle</a>
 			<a href="/Excel/ExcelDestination" class="btn btn-outline-success">Excel Dosyasını İndir</a>
+			<a href="/Pdf/PdfDestination" class="btn btn-outline-danger">PDF Dosyasını İndir</a>
 		</div>
 	</div>
 </div>

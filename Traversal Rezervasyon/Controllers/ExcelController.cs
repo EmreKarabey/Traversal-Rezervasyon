@@ -100,6 +100,12 @@ namespace Traversal_Rezervasyon.Controllers
                 worksheet.Cell(1, 3).Value = "Yorum";
                 worksheet.Cell(1, 4).Value = "Şehir";
 
+                var mainrow = worksheet.Range("A1:D1");
+
+                mainrow.Style.Fill.BackgroundColor = XLColor.Yellow;
+
+                mainrow.Style.Font.Bold = true;
+
                 int rowcount = 2;
 
                 foreach (var item in excelCommentModels())
@@ -111,6 +117,17 @@ namespace Traversal_Rezervasyon.Controllers
 
                     rowcount++;
                 }
+
+                int lastrow = rowcount - 1;
+
+                var bordercolumn = worksheet.Range(1,1,lastrow,4);
+
+                bordercolumn.Style.Border.OutsideBorder = XLBorderStyleValues.Thin;
+
+                bordercolumn.Style.Border.InsideBorder = XLBorderStyleValues.Thin;
+
+                bordercolumn.Style.Alignment.Horizontal = XLAlignmentHorizontalValues.Center;
+
 
                 using (var stream = new MemoryStream())
                 {
@@ -146,6 +163,13 @@ namespace Traversal_Rezervasyon.Controllers
                 worksheets.Cell(1, 1).Value = "Ad-Soyad";
                 worksheets.Cell(1, 2).Value = "Açıklama";
 
+                var style = worksheets.Range("A1:B1");
+
+                style.Style.Font.Bold = true;
+
+                style.Style.Fill.BackgroundColor = XLColor.Yellow;
+
+
                 int rowcount = 2;
 
                 foreach (var item in pdfGuideModels())
@@ -156,17 +180,100 @@ namespace Traversal_Rezervasyon.Controllers
                     rowcount++;
                 }
 
+                int lastrow = rowcount - 1;
+
+                var allcolumn = worksheets.Range(1,1,lastrow,2);
+
+                allcolumn.Style.Border.OutsideBorder = XLBorderStyleValues.Thin;
+                allcolumn.Style.Border.InsideBorder = XLBorderStyleValues.Thin;
+
+                allcolumn.Style.Alignment.Horizontal = XLAlignmentHorizontalValues.Center;
+               
+
                 using (var stream = new MemoryStream())
                 {
-                     c.SaveAs(stream);
+                    c.SaveAs(stream);
 
                     var contant = stream.ToArray();
 
-                    return File(contant, "application/vnd.openxmlformats-officedocument.spreadsheethml.sheet",Guid.NewGuid()+".xlsx");
+                    return File(contant, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", Guid.NewGuid() + ".xlsx");
                 }
 
             }
         }
+
+        public List<ExcelGuestUserModel> excelGuestUserModels()
+        {
+            using var c = new Context();
+            List<ExcelGuestUserModel> excelGuestUserModels = new List<ExcelGuestUserModel>();
+
+            excelGuestUserModels = c.Users.Select(n=>new ExcelGuestUserModel
+            {
+                Name = n.Name,
+
+                Surname = n.Surname,
+
+                UserName = n.UserName,
+
+                EMail = n.Email,
+
+                PhoneNumber = n.PhoneNumber
+            }).ToList();
+
+            return excelGuestUserModels;
+        }
+
+        public IActionResult ExcelGuest()
+        {
+            using (var c = new XLWorkbook())
+            {
+                var worksheet = c.AddWorksheet("Misafir Kullanıcı Listesi");
+
+                worksheet.Cell(1,1).Value = "Ad";
+                worksheet.Cell(1,2).Value = "Soyad";
+                worksheet.Cell(1,3).Value = "Kullanıcı Ad";
+                worksheet.Cell(1,4).Value = "E-Mail";
+                worksheet.Cell(1,5).Value = "Telefon Numarası";
+
+                var n = worksheet.Range("A1:E1");
+
+                n.Style.Font.Bold = true;
+
+                n.Style.Fill.BackgroundColor = XLColor.Yellow;
+
+                int rowcount = 2;
+                foreach (var item in excelGuestUserModels())
+                {
+                    worksheet.Cell(rowcount,1).Value= item.Name;
+                    worksheet.Cell(rowcount,2).Value= item.Surname;
+                    worksheet.Cell(rowcount,3).Value= item.UserName;
+                    worksheet.Cell(rowcount,4).Value= item.EMail;
+                    worksheet.Cell(rowcount,5).Value= item.PhoneNumber;
+
+                    rowcount++;
+                }
+
+                var lastrow = rowcount - 1;
+
+                var allcolumn = worksheet.Range(1,1,lastrow,5);
+                
+                allcolumn.Style.Border.OutsideBorder = XLBorderStyleValues.Thin;
+
+                allcolumn.Style.Border.InsideBorder = XLBorderStyleValues.Thin;
+
+                allcolumn.Style.Alignment.Horizontal = XLAlignmentHorizontalValues.Center;
+
+                using (var stream = new MemoryStream())
+                {
+                    c.SaveAs(stream);
+
+                    var content = stream.ToArray();
+
+                    return File(content, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",Guid.NewGuid()+".xlsx");
+                }
+            }
+        }
+        
 
     }
 }
