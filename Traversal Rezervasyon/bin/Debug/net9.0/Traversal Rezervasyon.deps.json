@@ -13,6 +13,7 @@
           "DataAccessLayer": "1.0.0",
           "EntityLayer": "1.0.0",
           "FluentValidation.AspNetCore": "11.3.1",
+          "MailKit": "4.13.0",
           "Microsoft.AspNetCore.Identity": "2.3.1",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.8",
           "Microsoft.EntityFrameworkCore": "9.0.8",
@@ -704,6 +705,18 @@
           "lib/net9.0/iTextSharp.LGPLv2.Core.dll": {
             "assemblyVersion": "3.7.6.0",
             "fileVersion": "3.7.6.0"
+          }
+        }
+      },
+      "MailKit/4.13.0": {
+        "dependencies": {
+          "MimeKit": "4.13.0",
+          "System.Formats.Asn1": "9.0.8"
+        },
+        "runtime": {
+          "lib/net8.0/MailKit.dll": {
+            "assemblyVersion": "4.13.0.0",
+            "fileVersion": "4.13.0.0"
           }
         }
       },
@@ -2034,6 +2047,18 @@
           "System.Security.Principal.Windows": "5.0.0"
         }
       },
+      "MimeKit/4.13.0": {
+        "dependencies": {
+          "BouncyCastle.Cryptography": "2.6.2",
+          "System.Security.Cryptography.Pkcs": "8.0.1"
+        },
+        "runtime": {
+          "lib/net8.0/MimeKit.dll": {
+            "assemblyVersion": "4.13.0.0",
+            "fileVersion": "4.13.0.0"
+          }
+        }
+      },
       "Mono.TextTemplating/3.0.0": {
         "dependencies": {
           "System.CodeDom": "6.0.0"
@@ -3098,6 +3123,13 @@
       "path": "itextsharp.lgplv2.core/3.7.6",
       "hashPath": "itextsharp.lgplv2.core.3.7.6.nupkg.sha512"
     },
+    "MailKit/4.13.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GsepEHKkaQvbAuBizlhz93yc0ihJWzVCfoerfnpCeqiKLeS6gsTKInYy3/U2wqgkGE62TKs5OKS1a90pyc+j4g==",
+      "path": "mailkit/4.13.0",
+      "hashPath": "mailkit.4.13.0.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Authentication/2.3.0": {
       "type": "package",
       "serviceable": true,
@@ -3692,6 +3724,13 @@
       "sha512": "sha512-+FWlwd//+Tt56316p00hVePBCouXyEzT86Jb3+AuRotTND0IYn0OO3obs1gnQEs/txEnt+rF2JBGLItTG+Be6A==",
       "path": "microsoft.win32.registry/4.5.0",
       "hashPath": "microsoft.win32.registry.4.5.0.nupkg.sha512"
+    },
+    "MimeKit/4.13.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oa4JuhAzJydHnPCc/XWeyBUGd3uiVyWW0NXqOVgkXEHjbHlPVBssklK3mpw9sokjzAaBGdj0bceFsr+NXvAukA==",
+      "path": "mimekit/4.13.0",
+      "hashPath": "mimekit.4.13.0.nupkg.sha512"
     },
     "Mono.TextTemplating/3.0.0": {
       "type": "package",

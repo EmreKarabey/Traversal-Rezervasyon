@@ -1,0 +1,41 @@
+﻿@model Traversal_Rezervasyon.Areas.Admin.Models.MailReceiveModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Mail Gönderme Sayfası</h4>
+            <form class="forms-sample" method="post">
+              
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Alıcı Mail</label>
+                    <input type="email" asp-for="@Model.ReceieverEmail" class="form-control" placeholder="Alıcı Mail">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Konu</label>
+                    <input type="text" asp-for="@Model.Subject" class="form-control" placeholder="Konu">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Mesaj</label>
+                    <textarea type="text" asp-for="@Model.MessageBody" class="form-control" placeholder="Mesaj"></textarea>
+                </div>
+                <br />
+                <button onclick="SuccessMail()" type="submit" class="btn btn-primary mr-2">Gönder</button>
+                <button class="btn btn-light">İptal</button>
+            </form>
+           
+        </div>
+    </div>
+</div>
+
+@if (TempData["MailGönderildi"] != null && (bool)TempData["MailGönderildi"])
+{
+    <script>
+        function SuccessMail(){
+            alert('Mesajınız Başarılı Bir Şekilde Gönderildi')
+        }
+    </script>
+}
