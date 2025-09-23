@@ -1,4 +1,7 @@
 ﻿using BusinessLayer.Abstract;
+using DocumentFormat.OpenXml.Wordprocessing;
+using EntityLayer.Concrete;
+
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using Traversal_Rezervasyon.Areas.Admin.Models;
@@ -21,50 +24,27 @@ namespace Traversal_Rezervasyon.Areas.Admin.Controllers
 
         public IActionResult CityList()
         {
-            var json = JsonConvert.SerializeObject(_ıdestinationservices.list());
+            var json = _ıdestinationservices.list();
             return Json(json);
         }
 
-        public List<CityModel> cityModels()
+        [HttpPost]
+        public IActionResult AddDestination(EntityLayer.Concrete.Destination destination)
         {
-            List<CityModel> cityModels = new List<CityModel>()
-            {
-                new CityModel()
-                {
-                    CityId = 1,
+            destination.Status = true;
+            _ıdestinationservices.Add(destination);
 
-                    CityName = "Ankara",
-
-                    CountryName = "Türkiye"
-                },
-
-                new CityModel()
-                {
-                    CityId  = 2,
-
-                    CityName = "Paris",
-
-                    CountryName = "Fransa"
-                },
-
-                new CityModel()
-                {
-                    CityId = 3,
-                    CityName = "Moskova",
-                    CountryName="Rusya"
-                },
-
-                new CityModel()
-                {
-                    CityId = 4,
-
-                    CityName = "Manchester",
-
-                    CountryName = "İngiltere"
-                }
-            };
-
-            return cityModels;
+            return Json(destination);
         }
+
+        public IActionResult GetByCityId(int id)
+        {
+            var values = _ıdestinationservices.GetById(id);
+
+            return Json(values);
+
+        }
+
+
     }
 }

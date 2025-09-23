@@ -1,48 +1,131 @@
-﻿
-@{
-    ViewData["Title"] = "Index";
-    Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+﻿@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_AdminUILayout.cshtml";
 }
 
 <h2>Şehir ve Ülke İsimleri</h2>
 <button id="CityList" class="btn btn-outline-info">Göster</button>
 
+<button id="CityAdd" class="btn btn-outline-warning">Ekle</button>
+<button id="GetById" class="btn btn-outline-danger">Şehir Ara</button>
+
+<div class="form-group">
+	<label>Id Giriniz</label>
+	<input type="text" class="form-control" id="GetCity" placeholder="Id Giriniz..." />
+</div>
+
+<form class="forms-sample">
+	<div class="form-group">
+		<label>Şehir Adı</label>
+		<input type="text" id="City" class="form-control" placeholder="Şehir Adı" />
+	</div>
+
+	<div class="form-group">
+		<label>Süre</label>
+		<input type="text" id="DayNight" class="form-control" placeholder="Süre" />
+	</div>
+
+	<div class="form-group">
+		<label>Ücret</label>
+		<input type="text" id="Price" class="form-control" placeholder="Ücret" />
+	</div>
+
+	<div class="form-group">
+		<label>Kapasite</label>
+		<input type="text" id="Capacity" class="form-control" placeholder="Kapasite" />
+	</div>
+</form>
 <div id="getlist">Şehirler Buraya Gelecek</div>
+
+
+
 
 <!-- 1) ÖNCE jQuery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 <!-- 2) Sonra kendi kodun -->
 <script>
-    $(function () {
-      $("#CityList").on("click", function () {
-        $.ajax({
-          type: "GET",
-          url: "/Admin/City/CityList",
-          dataType: "json",
-          success: function (data) {
-           
-            console.log(data);
+	$(function () {
+	  $("#CityList").on("click", function () {
+		$.ajax({
+		  type: "GET",
+		  url: "/Admin/City/CityList",
+		  dataType: "json",
+		  success: function (data) {
 
-            let htmltable =
-              '<table class="table table-bordered">' +
-              "<tr><th>ŞehirId</th><th>Şehir Adı</th><th>Ülke Adı</th></tr>";
+			console.log(data);
 
-            $.each(data, function (index, value) {
-              htmltable +=
-                `<tr><td>${value.cityId}</td>` +
-                `<td>${value.cityName}</td>` +
-                `<td>${value.countryName}</td></tr>`;
-            });
+			let htmltable =
+			  '<table class="table table-bordered">' +
+			  "<tr><th>Şehir Adı</th><th>Süre</th><th>Fiyat</th><th>Kapasite</th></tr>";
 
-            htmltable += "</table>";
-            $("#getlist").html(htmltable);
-          },
-          error: function (xhr) {
-            console.error("Hata:", xhr.status, xhr.responseText);
-            $("#getlist").text("Liste alınamadı.");
-          }
-        });
-      });
-    });
+			$.each(data, function (index, value) {
+			  htmltable +=`<tr><td>${value.city}</td>`+
+			  `<td>${value.dayNight}</td>`+
+			  `<td>${value.price}</td>`+
+			  `<td>${value.capacity}</td>`+
+			  `</tr>`
+
+			});
+
+			htmltable += "</table>";
+			$("#getlist").html(htmltable);
+		  },
+		  error: function (xhr) {
+			console.error("Hata:", xhr.status, xhr.responseText);
+			$("#getlist").text("Liste alınamadı.");
+		  }
+		});
+	  });
+	});
+
+
+
 </script>
+
+<script>
+	$(function () {
+	  $("#CityAdd").click(function () {
+		let cityvalues = {
+		  City: $("#City").val(),
+		  DayNight: $("#DayNight").val(),
+		  Price: $("#Price").val(),
+		  Capacity: $("#Capacity").val()
+		};
+
+		$.ajax({
+		  type: "POST",
+		  url: "/Admin/City/AddDestination",
+		  data: cityvalues,
+		  dataType: "json",
+		  success: function (funch) {
+			alert("Şehir - Rota Başarılı Bir Şekilde Eklenildi");
+		  }
+		});
+	  });
+	});
+</script>
+
+<script>
+	$("#GetById").click(x=>{
+		let id = ${"#GetCity"}.val,
+		$.ajax({
+			contentType:"application/json",
+			type:"Get",
+			url:"/Admin/City/GetByCityId",
+			datatype:"json",
+			data:{DestinationId:id},
+			success:function(funch){
+				let results = jQuery.parseJSON(funch);
+				console.log(results);
+
+				let htmltable = `<table class=table table-bordered><tr><th>Şehir Adı</th><th>Süre</th><th>Fiyat</th><th>Kapasite</th></tr> <tr><td>${results.City}</td><td>${results.DayNight}</td><td>${results.Price}</td><td>${results.Capacity}</td></table>` ;
+
+				${"GetCity"}.html(htmltable);
+
+			}
+			}
+		})
+	})
+</script>
+
