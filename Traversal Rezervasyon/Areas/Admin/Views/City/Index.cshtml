@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+}
+
+<h2>Şehir ve Ülke İsimleri</h2>
+<button id="CityList" class="btn btn-outline-info">Göster</button>
+
+<div id="getlist">Şehirler Buraya Gelecek</div>
+
+<!-- 1) ÖNCE jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<!-- 2) Sonra kendi kodun -->
+<script>
+    $(function () {
+      $("#CityList").on("click", function () {
+        $.ajax({
+          type: "GET",
+          url: "/Admin/City/CityList",
+          dataType: "json",
+          success: function (data) {
+           
+            console.log(data);
+
+            let htmltable =
+              '<table class="table table-bordered">' +
+              "<tr><th>ŞehirId</th><th>Şehir Adı</th><th>Ülke Adı</th></tr>";
+
+            $.each(data, function (index, value) {
+              htmltable +=
+                `<tr><td>${value.cityId}</td>` +
+                `<td>${value.cityName}</td>` +
+                `<td>${value.countryName}</td></tr>`;
+            });
+
+            htmltable += "</table>";
+            $("#getlist").html(htmltable);
+          },
+          error: function (xhr) {
+            console.error("Hata:", xhr.status, xhr.responseText);
+            $("#getlist").text("Liste alınamadı.");
+          }
+        });
+      });
+    });
+</script>
