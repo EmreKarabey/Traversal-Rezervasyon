@@ -4,10 +4,21 @@
 }
 
 <h2>Şehir ve Ülke İsimleri</h2>
-<button id="CityList" class="btn btn-outline-info">Göster</button>
 
-<button id="CityAdd" class="btn btn-outline-warning">Ekle</button>
-<button id="GetById" class="btn btn-outline-danger">Şehir Ara</button>
+<button id="CityList" class="btn btn-outline-info">Şehir Göster</button>
+<br />
+<button id="CityAdd" class="btn btn-outline-warning">Şehir Ekle</button>
+<br />
+<button id="GetById" class="btn btn-outline-success">Şehir Ara</button>
+<br />
+<button id="DeleteCity" class="btn btn-outline-danger">Şehir Sil</button>
+<br />
+<button id="UpdateCity" class="btn btn-outline-primary">Şehir Güncelle</button>
+
+<div class="form-group">
+	<label>Silmek için ID Giriniz</label>
+	<input class="form-control" id="CityDelete" placeholder="ID Giriniz..." />
+</div>
 
 <div class="form-group">
 	<label>Id Giriniz</label>
@@ -36,6 +47,36 @@
 	</div>
 </form>
 <div id="getlist">Şehirler Buraya Gelecek</div>
+<br />
+<br />
+
+<div id="delete">Mesaj Buraya Gelecek</div>
+
+<br />
+<br />
+
+<form class="forms-sample">
+	<div class="form-group">
+		<label>Şehir ID</label>
+		<input class="form-control" id="CityUpdateID" placeholder="Güncellemek için Şehir ID Girin..." />
+	</div>
+
+	<div class="form-group">
+		<label>Şehir Adı</label>
+		<input class="form-control" id="CityUpdateNAME" placeholder="Güncellemek için Şehir Adı Girin..." />
+	</div>
+
+	<div class="form-group">
+		<label>Ücret</label>
+		<input class="form-control" id="CityUpdatePRICE" placeholder="Güncellemek için Ücret Girin..." />
+	</div>
+
+	<div class="form-group">
+		<label>Kapasite</label>
+		<input class="form-control" id="CityUpdateCAPACITY" placeholder="Güncellemek için Kapasite Girin..." />
+	</div>
+</form>
+
 
 
 
@@ -105,27 +146,68 @@
 	  });
 	});
 </script>
-
 <script>
-	$("#GetById").click(x=>{
-		let id = ${"#GetCity"}.val,
+	$("#GetById").click(function() {
+		let id = $("#GetCity").val();
 		$.ajax({
-			contentType:"application/json",
-			type:"Get",
-			url:"/Admin/City/GetByCityId",
-			datatype:"json",
-			data:{DestinationId:id},
-			success:function(funch){
-				let results = jQuery.parseJSON(funch);
+			contentType: "application/json",
+			type: "GET",
+			url: "/Admin/City/GetByCityId",
+			dataType: "json",
+			data: { DestinationId: id },
+			success: function(funch) {
+				let results = funch;
 				console.log(results);
 
-				let htmltable = `<table class=table table-bordered><tr><th>Şehir Adı</th><th>Süre</th><th>Fiyat</th><th>Kapasite</th></tr> <tr><td>${results.City}</td><td>${results.DayNight}</td><td>${results.Price}</td><td>${results.Capacity}</td></table>` ;
+				let htmltable = `<table class="table table-bordered"><tr><th>Şehir Adı</th><th>Süre</th><th>Fiyat</th><th>Kapasite</th></tr><tr><td>${results.city}</td><td>${results.dayNight}</td><td>${results.price}</td><td>${results.capacity}</td></tr></table>`;
 
-				${"GetCity"}.html(htmltable);
-
+				$("#getlist").html(htmltable);
+			},
+			error: function (fanch){
+				$("#getlist").html('Aradığınız Şehir Bulunamadı');
 			}
-			}
-		})
-	})
+		});
+	});
 </script>
 
+<script>
+	$("#DeleteCity").click(function(){
+		let id = $("#CityDelete").val();
+
+		$.ajax({
+			contentType:"application/json",
+			type:"POST",
+			url:`/Admin/City/DeleteCity/${id}`,
+			dataType:"json",
+			success:function(ncn){
+				alert("Şehir Başarılı Bir Şekilde Silindi");
+
+			}
+
+		});
+	});
+</script>
+
+<script>
+	$("#UpdateCity").click(function(){
+		let values = {
+			DestinationID : $("#CityUpdateID").val(),
+			City : $("#CityUpdateNAME").val(),
+			Price : $("#CityUpdatePRICE").val(),
+			Capacity : $("#CityUpdateCAPACITY").val()};
+
+			$.ajax({
+				type:"POST",
+				url:"/Admin/City/UpdateCity",
+				data:values,
+				success:function(nfg){
+					alert("Başarılı Bir Şekilde Şehir Güncellenildi");
+				}
+			});
+
+			
+
+
+		});
+	
+</script>
