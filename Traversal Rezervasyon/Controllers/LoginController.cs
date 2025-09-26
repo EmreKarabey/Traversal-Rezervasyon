@@ -1,4 +1,6 @@
-﻿using EntityLayer.Concrete;
+﻿using BusinessLayer.ValidationRule;
+using DTOs.AppUserDTOs;
+using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -22,7 +24,7 @@ namespace Traversal_Rezervasyon.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> SignUp(UserRegisterViewModel p)
+        public async Task<IActionResult> SignUp(UserRegisterModel p)
         {
 
 

@@ -1,6 +1,7 @@
 ﻿using ClosedXML.Excel;
 using DataAccessLayer.Concrete;
 using DocumentFormat.OpenXml.Bibliography;
+using DTOs.PdfDTOs;
 using Microsoft.AspNetCore.Mvc;
 using Traversal_Rezervasyon.Areas.Admin.Models;
 using Traversal_Rezervasyon.Models;

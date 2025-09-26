@@ -1,4 +1,5 @@
-﻿using EntityLayer.Concrete;
+﻿using DTOs.AppUserDTOs;
+using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;

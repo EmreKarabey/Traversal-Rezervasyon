@@ -1,6 +1,7 @@
 ﻿using BusinessLayer.Abstract;
 using BusinessLayer.Concrete;
 using DataAccessLayer.Concrete;
+using DTOs.PdfDTOs;
 using EntityLayer.Concrete;
 using iTextSharp.text;
 using iTextSharp.text.pdf;

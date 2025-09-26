@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLNT0iq8CZc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\DTOs\\DTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

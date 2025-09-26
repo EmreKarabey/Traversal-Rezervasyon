@@ -2184,6 +2184,19 @@
           "bin/placeholder/DataAccessLayer.dll": {}
         }
       },
+      "DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.3.0"
+        },
+        "compile": {
+          "bin/placeholder/DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTOs.dll": {}
+        }
+      },
       "EntityLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -5917,6 +5930,11 @@
       "path": "../DataAccessLayer/DataAccessLayer.csproj",
       "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
     },
+    "DTOs/1.0.0": {
+      "type": "project",
+      "path": "../DTOs/DTOs.csproj",
+      "msbuildProject": "../DTOs/DTOs.csproj"
+    },
     "EntityLayer/1.0.0": {
       "type": "project",
       "path": "../EntitityLaye/EntityLayer.csproj",
@@ -5925,6 +5943,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "DTOs >= 1.0.0",
       "DataAccessLayer >= 1.0.0",
       "EntityLayer >= 1.0.0",
       "FluentValidation.AspNetCore >= 11.3.1",
@@ -5968,6 +5987,9 @@
           "projectReferences": {
             "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\DataAccessLayer\\DataAccessLayer.csproj": {
               "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\DataAccessLayer\\DataAccessLayer.csproj"
+            },
+            "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\DTOs\\DTOs.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\DTOs\\DTOs.csproj"
             },
             "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\EntitityLaye\\EntityLayer.csproj": {
               "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Masaüstü\\Yazılım\\C# Programlama\\Traversal Rezervasyon\\EntitityLaye\\EntityLayer.csproj"
