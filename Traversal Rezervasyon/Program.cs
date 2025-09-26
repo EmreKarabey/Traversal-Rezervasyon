@@ -1,10 +1,14 @@
 using BusinessLayer.Abstract;
 using BusinessLayer.Concrete;
 using BusinessLayer.Containers;
+using BusinessLayer.ValidationRule;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
+using DTOs.AnnouncementDTOs;
 using EntityLayer.Concrete;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
@@ -31,7 +35,11 @@ builder.Services.AddMvc(config =>
 
 builder.Services.AddMvc();
 
-builder.Services.AddControllersWithViews();
+builder.Services.AddAutoMapper(typeof(Program));
+
+builder.Services.AddTransient<IValidator<AnnouncementDTOs>,AnnouncementValidation>();
+
+builder.Services.AddControllersWithViews().AddFluentValidation();
 
 builder.Services.AddLogging(x =>
 {

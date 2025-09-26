@@ -1,0 +1,54 @@
+﻿
+@using EntityLayer.Concrete
+@model List<ContentUs>
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+	int count = 0;
+}
+
+<div class="card">
+	<h5 class="card-header">Yorumlar Listesi</h5>
+	<div class="card-body">
+		<div class="table-responsive text-nowrap">
+			<table class="table table-bordered">
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>Ad-Soyad</th>
+						<th>Mail</th>
+						<th>Konu</th>
+						<th>Mesaj Detayı</th>
+						<th>Tarih</th>
+						<th>Mesajı Aç</th>
+						<th>Sil</th>
+
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model)
+					{
+						count++;
+						<tr>
+							<td>@count</td>
+							<td>@item.Name</td>
+							<td>@item.Mail</td>
+							<td>@item.Subject</td>
+							<td>@item.MessageDetails</td>
+							<td>@item.MessageDate</td>
+							<td><a href="#" class="btn btn-outline-primary">Mesaj Aç</a></td>
+							<td><a href="#" class="btn btn-outline-primary">Sil</a></td>
+				
+							
+						</tr>
+					}
+				</tbody>
+
+			</table>
+			<br />
+			
+		</div>
+	</div>
+</div>
+
+
