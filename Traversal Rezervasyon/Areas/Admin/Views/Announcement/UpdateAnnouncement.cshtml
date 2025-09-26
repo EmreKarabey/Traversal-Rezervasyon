@@ -1,0 +1,40 @@
+﻿@model DTOs.AnnouncementDTOs.AnnouncementUpdateDTO
+@{
+    ViewData["Title"] = "UpdateAnnouncement";
+    Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+}
+
+<h1>Duyuru Güncelleme</h1>
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Tur Düzenleme Sayfası</h4>
+            <form class="forms-sample" method="post">
+                <div class="form-group">
+
+                    <input type="hidden" asp-for="AnnouncementID" class="form-control" placeholder="@Model.AnnouncementID">
+                    <span class="text-danger" asp-validation-for="AnnouncementID" ></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Başlık</label>
+                    <input type="text" asp-for="Title" class="form-control" placeholder="@Model.Title">
+                    <span class="text-danger" asp-validation-for="Title"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">İçerik</label>
+                    <input type="text" asp-for="Content" class="form-control" placeholder="@Model.Content">
+                    <span class="text-danger" asp-validation-for="Content"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Tarih</label>
+                    <input type="text" asp-for="Date" class="form-control" placeholder="@Model.Date.ToShortDateString()">
+                    <span asp-validation-for="Date" class="text-danger"></span>
+                </div>
+     
+                <button type="submit" class="btn btn-primary mr-2">Güncelle</button>
+                <button class="btn btn-light">İptal</button>
+            </form>
+        </div>
+    </div>
+</div>
+

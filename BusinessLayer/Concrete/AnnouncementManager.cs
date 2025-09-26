@@ -19,27 +19,35 @@ namespace BusinessLayer.Concrete
         }
         public void Add(Announcement t)
         {
-            throw new NotImplementedException();
+            _announcement.Add(t);
         }
 
         public void Delete(Announcement t)
         {
-            throw new NotImplementedException();
+            var c = _announcement.GetById(t.AnnouncementID);
+
+            _announcement.Delete(c);
         }
 
         public Announcement GetById(int id)
         {
-            throw new NotImplementedException();
+            var gstr = _announcement.GetById(id);
+
+            return gstr;
         }
 
         public List<Announcement> list()
         {
-            throw new NotImplementedException();
+            var gstr = _announcement.list();
+
+            return gstr;
         }
 
         public void Update(Announcement t)
         {
-            throw new NotImplementedException();
+           
+
+            _announcement.Update(t);
         }
     }
 }

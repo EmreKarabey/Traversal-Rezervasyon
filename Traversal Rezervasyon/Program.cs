@@ -37,7 +37,7 @@ builder.Services.AddMvc();
 
 builder.Services.AddAutoMapper(typeof(Program));
 
-builder.Services.AddTransient<IValidator<AnnouncementDTOs>,AnnouncementValidation>();
+builder.Services.CustomerValidator();
 
 builder.Services.AddControllersWithViews().AddFluentValidation();
 

@@ -8,8 +8,11 @@ namespace Traversal_Rezervasyon.Mapping.AutoMapperProfile
     {
         public MapProfile()
         {
-            CreateMap<AnnouncementDTOs, Announcement>();
-            CreateMap<Announcement, AnnouncementDTOs>();
+            CreateMap<AnnouncementListDTO, Announcement>();
+            CreateMap<Announcement, AnnouncementListDTO>();
+
+            CreateMap<AnnouncementUpdateDTO, Announcement>();
+            CreateMap<Announcement, AnnouncementUpdateDTO>();
         }
     }
 }

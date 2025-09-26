@@ -5,8 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using BusinessLayer.Abstract;
 using BusinessLayer.Concrete;
+using BusinessLayer.ValidationRule;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.EntityFramework;
+using DTOs.AnnouncementDTOs;
+using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace BusinessLayer.Containers
@@ -27,6 +30,13 @@ namespace BusinessLayer.Containers
             builder.AddScoped<IGuide, EFGuide>();
             builder.AddScoped<IContentUsServices, ContentUsManager>();
             builder.AddScoped<IContentUs, EFContentUs>();
+            builder.AddScoped<IAnnouncementServices, AnnouncementManager>();
+            builder.AddScoped<IAnnouncement, EFAnnouncement>();
+        }
+
+        public static void CustomerValidator(this IServiceCollection builder)
+        {
+            builder.AddTransient<IValidator<AnnouncementAddDTO>, AnnouncementAddValidation>();
         }
     }
 }
