@@ -34,6 +34,7 @@ builder.Services.AddMvc(config =>
 });
 
 builder.Services.AddMvc();
+builder.Services.AddHttpClient();
 
 builder.Services.AddAutoMapper(typeof(Program));
 
