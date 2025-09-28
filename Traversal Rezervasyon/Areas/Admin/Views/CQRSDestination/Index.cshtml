@@ -1,0 +1,46 @@
+﻿
+@using Traversal_Rezervasyon.CRQS.Results
+@model List<GetDestinationQueryResults>
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+	int count = 0;
+}
+
+<div class="card">
+	<h5 class="card-header">Tur Listesi</h5>
+	<div class="card-body">
+		<div class="table-responsive text-nowrap">
+			<table class="table table-bordered">
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>Şehir</th>
+						<th>Kapasite</th>
+						<th>Süre</th>
+						<th>Sil</th>
+						<th>Güncelle</th>
+
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model)
+					{
+						count++;
+						<tr>
+							<td>@count</td>
+							<td>@item.City</td>
+							<td>@item.Capacity</td>
+							<td>@item.DayNight</td>
+							<td><a href="/Admin/CQRSDestination/DeleteDestional/@item.DestinationID" class="btn btn-outline-danger">Sil</a></td>
+							<td><a href="/Admin/CQRSDestination/GetById/@item.DestinationID" class="btn btn-outline-success">Güncelle</a></td>
+						</tr>
+					}
+				</tbody>
+
+			</table>
+			<br />
+		</div>
+	</div>
+</div>
+

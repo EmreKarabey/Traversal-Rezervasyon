@@ -13,6 +13,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.AspNetCore.Mvc.Filters;
+using Traversal_Rezervasyon.CRQS.Handlers;
 using Traversal_Rezervasyon.Models;
 
 
@@ -58,6 +59,12 @@ builder.Logging.AddDebug();
 var logsDir = Path.Combine(builder.Environment.ContentRootPath, "Logs");
 Directory.CreateDirectory(logsDir);
 builder.Logging.AddFile(Path.Combine(logsDir, "app.log")); // veya "log-.txt" paketine göre
+
+builder.Services.AddScoped<GetAllDestinationQueryHandlers>();
+builder.Services.AddScoped<GetDestinationQueryHandlers>();
+builder.Services.AddScoped<GetAddDestinationQueryHandlers>();
+builder.Services.AddScoped<GetDeleteDestinationQueryHandlers>();
+builder.Services.AddScoped<GetUpdateDestinationQueryHandlers>();
 
 var app = builder.Build();
 

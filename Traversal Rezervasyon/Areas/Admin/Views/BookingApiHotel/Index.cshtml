@@ -1,0 +1,45 @@
+﻿@model IEnumerable<BookingApiHotelModel.Result>
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+	int count = 0;
+}
+
+
+<div class="card">
+	<h5 class="card-header">Berlin Otel Listesi</h5>
+	<div class="card-body">
+		<div class="table-responsive text-nowrap">
+			<table class="table table-bordered">
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>Otel Adı</th>
+						<th>Adres</th>
+						<th>Şehir</th>
+				
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var item in Model)
+					{
+						count++;
+						<tr>
+							<td>@count</td>
+							<td>@item.hotel_name</td>
+							<td>@item.address</td>
+							<td>@item.city</td>
+						
+						</tr>
+					}
+
+
+				</tbody>
+			</table>
+			<br />
+			<a href="/Admin/Destination/AddDestination" class="btn btn-warning">Tur Ekle</a>
+			<a href="/Excel/ExcelDestination" class="btn btn-outline-success">Excel Dosyasını İndir</a>
+			<a href="/Pdf/PdfDestination" class="btn btn-outline-danger">PDF Dosyasını İndir</a>
+		</div>
+	</div>
+</div>

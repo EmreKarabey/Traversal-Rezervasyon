@@ -32,6 +32,7 @@ namespace BusinessLayer.Containers
             builder.AddScoped<IContentUs, EFContentUs>();
             builder.AddScoped<IAnnouncementServices, AnnouncementManager>();
             builder.AddScoped<IAnnouncement, EFAnnouncement>();
+          
         }
 
         public static void CustomerValidator(this IServiceCollection builder)
