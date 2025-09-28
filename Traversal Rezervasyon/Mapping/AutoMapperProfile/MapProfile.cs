@@ -13,6 +13,8 @@ namespace Traversal_Rezervasyon.Mapping.AutoMapperProfile
 
             CreateMap<AnnouncementUpdateDTO, Announcement>();
             CreateMap<Announcement, AnnouncementUpdateDTO>();
+
+           
         }
     }
 }
