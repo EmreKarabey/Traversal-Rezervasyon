@@ -128,6 +128,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFpbFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Admin/Views/MediatRGuide/AddGuide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVkaWF0Ukd1aWRlXEFkZEd1aWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Admin/Views/MediatRGuide/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVkaWF0Ukd1aWRlXEdldEJ5SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Admin/Views/MediatRGuide/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVkaWF0Ukd1aWRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Admin/Views/Reservation/LastReservations.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVzZXJ2YXRpb25cTGFzdFJlc2VydmF0aW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

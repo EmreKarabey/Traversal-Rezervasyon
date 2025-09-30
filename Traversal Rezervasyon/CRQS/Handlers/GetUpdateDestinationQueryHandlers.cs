@@ -1,6 +1,7 @@
 ﻿using DataAccessLayer.Concrete;
 using Traversal_Rezervasyon.CRQS.Commands;
 using EntityLayer.Concrete;
+using Traversal_Rezervasyon.CRQS.Results;
 
 namespace Traversal_Rezervasyon.CRQS.Handlers
 {

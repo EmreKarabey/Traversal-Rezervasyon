@@ -8,7 +8,7 @@
 		<div class="card-body">
 			<h4 class="card-title">Tur Ekleme Sayfası</h4>
 			<form class="forms-sample" method="post">
-				<input type="hidden" class="form-control" asp-for="@Model.DestinationID" />
+				<input type="hidden" class="form-control" asp-for="@Model.DestinationID" placeholder="@Model.DestinationID" />
 				<div class="form-group">
 					<label for="exampleInputPassword4">Şehir</label>
 					<input type="text" asp-for="City" class="form-control" placeholder="@Model.City">

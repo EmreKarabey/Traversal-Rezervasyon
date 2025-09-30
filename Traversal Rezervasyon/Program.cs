@@ -9,6 +9,7 @@ using DTOs.AnnouncementDTOs;
 using EntityLayer.Concrete;
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
@@ -65,6 +66,9 @@ builder.Services.AddScoped<GetDestinationQueryHandlers>();
 builder.Services.AddScoped<GetAddDestinationQueryHandlers>();
 builder.Services.AddScoped<GetDeleteDestinationQueryHandlers>();
 builder.Services.AddScoped<GetUpdateDestinationQueryHandlers>();
+
+
+builder.Services.AddMediatR(typeof(Program));
 
 var app = builder.Build();
 

@@ -624,3 +624,6 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\SendGrid.dll
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\StarkbankEcdsa.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\MediatR.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

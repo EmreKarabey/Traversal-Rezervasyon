@@ -19,14 +19,19 @@ namespace Traversal_Rezervasyon.CRQS.Handlers
         {
             var gstr = _context.Destinations.Find(id.id);
 
-            return new GetDestinationQueryResults
+            GetDestinationQueryResults p = new GetDestinationQueryResults()
             {
-                DestinationID = gstr.DestinationID,
-                Capacity = gstr.Capacity,
                 City = gstr.City,
+                Capacity = gstr.Capacity,
                 DayNight = gstr.DayNight,
+                DestinationID = gstr.DestinationID,
                 Price = gstr.Price
+
             };
+
+            return p;
+
+            
 
 
         }

@@ -1,0 +1,31 @@
+﻿@model GetCreateGuideQueryCommand
+@{
+    ViewData["Title"] = "AddGuide";
+    Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Tur Rehberi Ekleme Sayfası</h4>
+            <form class="forms-sample" method="post">
+                <div class="form-group">
+
+                   
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Ad-Soyad</label>
+                    <input type="text" asp-for="Name" class="form-control" placeholder="Ad-Soyad">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Açıklama</label>
+                    <input type="text" asp-for="Description" class="form-control" placeholder="Açıklama">
+                </div>
+               
+
+                <button type="submit" class="btn btn-primary mr-2">Ekle</button>
+                <button class="btn btn-light">İptal</button>
+            </form>
+        </div>
+    </div>
+</div>
