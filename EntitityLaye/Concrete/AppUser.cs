@@ -16,6 +16,8 @@ namespace EntityLayer.Concrete
         public List<AppUser> AppUsers { get; set; }
 
         public string? BackgroundImageURL {get; set;}
+
+        public List<Comment> Comments { get; set; }
    
     }
 }

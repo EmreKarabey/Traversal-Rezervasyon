@@ -20,6 +20,8 @@ namespace EntityLayer.Concrete
         public bool Status { get; set; }
         public string ?CoverImage { get; set; }
 
+        public DateTime Date { get; set; }
+
         public string ?MainTitle { get; set; }
         public string ?Title1 { get; set; }
         public string ?Title2 { get; set; }
@@ -28,6 +30,8 @@ namespace EntityLayer.Concrete
         public string ?Image2 { get; set; }
         public string? Quotation { get; set; }
         public string ?Details3 { get; set; }
+        public int? GuideID { get; set; }
+        public Guide? Guide { get; set; }
         public List<Reservation> Reservations { get; set; }
         public List<Comment> Comments { get; set; }
 

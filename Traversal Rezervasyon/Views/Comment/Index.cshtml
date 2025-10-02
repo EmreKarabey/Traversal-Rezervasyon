@@ -5,17 +5,13 @@
 		Yorum Yapmak İçin Aşağıdaki Bilgileri Girin
 	</p>
 	<form method="post" asp-controller="Comment" asp-action="Index">
-		<input name="DestinationID" value="@ViewBag.vId" class="form-control" type="hidden"></input>
+		<input name="DestinationID" value="@ViewBag.Vid" type="hidden" class="form-control" />
+		<input namer="CommentUser" value="@ViewBag.Name" type="hidden" class="form-control" />
+		<input name="AppuserId" value="@ViewBag.UserId" type="hidden" class="form-control" />
 		<div class="form-group">
 			<textarea name="CommentContent" class="form-control" placeholder="Yorumunuz" required="" spellcheck="false"></textarea>
 		</div>
 		<div class="input-grids row">
-
-			<div class="form-group col-lg-12">
-				<input name="CommentUser" type="text" class="form-control" placeholder="Adınız-Soyadınız"
-					   required="">
-			</div>
-
 		</div>
 
 		<div class="submit text-right">

@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BusinessLayer.Abstract;
+using BusinessLayer.Abstract.UowServices;
 using BusinessLayer.Concrete;
+using BusinessLayer.Concrete.UowManager;
 using BusinessLayer.ValidationRule;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.EntityFramework;
+using DataAccessLayer.UnitOfWork;
 using DTOs.AnnouncementDTOs;
 using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
@@ -32,6 +35,9 @@ namespace BusinessLayer.Containers
             builder.AddScoped<IContentUs, EFContentUs>();
             builder.AddScoped<IAnnouncementServices, AnnouncementManager>();
             builder.AddScoped<IAnnouncement, EFAnnouncement>();
+            builder.AddScoped<IUowAccountServices, UowAccountManager>();
+            builder.AddScoped<IAccount, EFAccount>();
+            builder.AddScoped<IUowSave, UowSave>();
           
         }
 

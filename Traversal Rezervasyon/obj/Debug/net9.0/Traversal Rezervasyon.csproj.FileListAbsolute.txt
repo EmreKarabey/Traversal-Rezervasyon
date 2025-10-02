@@ -18,9 +18,7 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\scopedcss\bundle\Traversal Rezervasyon.styles.css
-C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\scopedcss\projectbundle\Traversal Rezervasyon.bundle.scp.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\1j2tkuaaid-b9sayid5wm.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\91jou1hhyz-61n19gt1b8.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\ikhaimwcuc-xtxxf3hu2r.gz
@@ -105,8 +103,6 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\i0kobga1ol-983yu7n05r.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\m36tktbh3n-xp7kvsfyl6.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\g177v1lthw-urevyrnuxa.gz
-C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\ti6qypbovg-1mxgpbuioe.gz
-C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\ojjzmxuym0-1mxgpbuioe.gz
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\staticwebassets.development.json
@@ -627,3 +623,7 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\MediatR.dll
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\MediatR.Contracts.dll
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\scopedcss\projectbundle\Traversal Rezervasyon.bundle.scp.css
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\ti6qypbovg-1mxgpbuioe.gz
+C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\obj\Debug\net9.0\compressed\ojjzmxuym0-1mxgpbuioe.gz

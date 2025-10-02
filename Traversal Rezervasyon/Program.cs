@@ -53,6 +53,8 @@ builder.Services.AddLogging(x =>
     x.AddDebug();
 });
 
+
+
 builder.Logging.ClearProviders();
 builder.Logging.AddConsole();
 builder.Logging.AddDebug();
@@ -82,6 +84,8 @@ if (!app.Environment.IsDevelopment())
 }
 app.UseStatusCodePagesWithReExecute("/Admin/_404Pages/Index", "?code{0}");
 app.UseHttpsRedirection();
+
+app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();

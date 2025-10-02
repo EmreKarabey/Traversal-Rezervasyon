@@ -37,6 +37,13 @@ namespace BusinessLayer.Concrete
             return gstr;
         }
 
+        public Destination IncludeDestination(int id)
+        {
+            var gstr = _IDestinationServices.IncludeDestination(id);
+
+            return gstr;
+        }
+
         public List<Destination> list()
         {
             var gstr = _IDestinationServices.list();

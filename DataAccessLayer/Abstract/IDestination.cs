@@ -12,6 +12,7 @@ namespace DataAccessLayer.Abstract
         public string SplitWord(int id);
 
         public string SubstringDescription(int id);
-        
+
+        public Destination IncludeDestination(int id);
     }
 }

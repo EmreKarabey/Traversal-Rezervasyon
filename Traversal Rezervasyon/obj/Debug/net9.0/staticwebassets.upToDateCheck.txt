@@ -303,6 +303,7 @@ C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasy
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Traversal-Liberty\assets\js\jquery.zoomslider.min.js
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\sneat-1.0.0\assets\vendor\libs\apex-charts\apex-charts.css
 C:\Users\Lenovo\OneDrive\Masaüstü\Yazılım\C# Programlama\Traversal Rezervasyon\Traversal Rezervasyon\wwwroot\Login_v1\vendor\select2\select2.js
+wwwroot\backgroundimage\2ca42274-78d7-4398-b842-374db5d5287e.png
 wwwroot\backgroundimage\3b4e22b1-00c1-4035-902e-456a693ec154.png
 wwwroot\backgroundimage\57e97eec-69b6-43bd-a5c4-ee86454ffb71.png
 wwwroot\backgroundimage\9c34b79c-9195-44c9-85cb-5b4b4adacce9.png
@@ -1145,6 +1146,7 @@ wwwroot\Traversal-Starter\index.html
 wwwroot\Traversal-Starter\services.html
 wwwroot\Traversal-Starter\starter-license-W3Layouts.txt
 wwwroot\userimage\5fde6eb1-e235-4285-b8d1-1ce1877fa673.png
+wwwroot\userimage\9f058d8d-89ec-4398-a8be-1e025e3fb47a.png
 wwwroot\userimage\a5fe64d8-8dad-4f1e-a4e5-a47b757ae7a7.png
 wwwroot\userimage\d4f8f768-4527-4fc3-9231-268c22acbbbf.png
 wwwroot\userimage\eaf485d6-1667-4152-a196-341572407dff.png

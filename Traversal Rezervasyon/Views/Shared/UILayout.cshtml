@@ -2,18 +2,18 @@
 @{
     Layout = null;
 }
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
--->
-<!doctype html>
-<html lang="zxx">
-@await Html.PartialAsync("/Views/Home/_HeaderPartial.cshtml")
+
+@await Html.PartialAsync("/Views/Home/_HeaderPartial.cshtml");
 <body>
-    <!--header-->
-    @await Html.PartialAsync("/Views/Home/_NavbarPartial.cshtml")
-	@RenderBody()
-    @await Html.PartialAsync("/Views/Home/_FooterPartial.cshtml")
-    @await Html.PartialAsync("/Views/Home/_ScriptPartial.cshtml")
+    @await Html.PartialAsync("/Views/Home/_NavbarPartial.cshtml");
+
+
+@RenderBody()
+
+    @await Html.PartialAsync("/Views/Home/_FooterPartial.cshtml");
+    @await Html.PartialAsync("/Views/Home/_ScriptPartial.cshtml");
+
 </body>
-</html>
+
+
+

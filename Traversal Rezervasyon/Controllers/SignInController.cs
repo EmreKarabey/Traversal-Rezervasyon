@@ -32,8 +32,10 @@ namespace Traversal_Rezervasyon.Controllers
             {
                 var results = await _signInManager.PasswordSignInAsync(p.UserName,p.Password,true,true);
 
+
                 if (results.Succeeded)
                 {
+                    
                     return RedirectToAction("Index","Destination");
                 }
                 else

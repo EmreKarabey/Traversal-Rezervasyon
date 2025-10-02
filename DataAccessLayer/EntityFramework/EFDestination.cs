@@ -7,11 +7,21 @@ using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
 using DataAccessLayer.Repository;
 using EntityLayer.Concrete;
+using Microsoft.EntityFrameworkCore;
 
 namespace DataAccessLayer.EntityFramework
 {
     public class EFDestination : GenericRepository<Destination>, IDestination
     {
+        public Destination IncludeDestination(int id)
+        {
+            using var c = new Context();
+
+            var gstr = c.Destinations.Include(N=>N.Guide).Where(n=>n.DestinationID==id).FirstOrDefault();
+
+            return gstr;
+        }
+
         public string SplitWord(int id)
         {
             using var c = new Context();
