@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using DTOs.AnnouncementDTOs;
+using DTOs.ContentDTOs;
 using EntityLayer.Concrete;
 
 namespace Traversal_Rezervasyon.Mapping.AutoMapperProfile
@@ -13,6 +14,9 @@ namespace Traversal_Rezervasyon.Mapping.AutoMapperProfile
 
             CreateMap<AnnouncementUpdateDTO, Announcement>();
             CreateMap<Announcement, AnnouncementUpdateDTO>();
+
+            CreateMap<ContentUs, SendContentDTOs>();
+            CreateMap<SendContentDTOs, ContentUs>();
 
            
         }

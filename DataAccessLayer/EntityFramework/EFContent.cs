@@ -15,7 +15,9 @@ namespace DataAccessLayer.EntityFramework
     {
         public void Add(ContentUs t)
         {
-            throw new NotImplementedException();
+            using var c = new Context();
+
+            c.ContentUs.Add(t);
         }
 
         public void ChangeFalseContentUs(int id)

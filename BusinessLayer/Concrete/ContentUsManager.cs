@@ -18,7 +18,7 @@ namespace BusinessLayer.Concrete
         }
         public void Add(ContentUs t)
         {
-            throw new NotImplementedException();
+            _contentUs.Add(t);
         }
 
         public void ChangeFalseContentUs(int id)
