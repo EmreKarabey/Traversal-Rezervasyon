@@ -65,6 +65,13 @@ namespace BusinessLayer.Concrete
             return gstr;
         }
 
+        public List<Destination> Top4Destination()
+        {
+            var gstr = _IDestinationServices.Top4Destination();
+
+            return gstr;
+        }
+
         public void Update(Destination t)
         {
             _IDestinationServices.Update(t);

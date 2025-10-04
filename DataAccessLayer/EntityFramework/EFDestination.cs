@@ -41,5 +41,14 @@ namespace DataAccessLayer.EntityFramework
 
             return nznzn;
         }
+
+        public List<Destination> Top4Destination()
+        {
+            using var c = new Context();
+
+            var gstr = c.Destinations.OrderByDescending(n=>n.DestinationID).Take(4).ToList();
+
+            return gstr;
+        }
     }
 }

@@ -1,0 +1,25 @@
+﻿@using DTOs.RoleDTOs
+@model UpdateRoleDtos
+@{
+    ViewData["Title"] = "UpdateRole";
+    Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+}
+
+
+<div class="col-12 grid-margin stretch-card">
+	<div class="card">
+		<div class="card-body">
+			<h4 class="card-title">Rol Düzenleme Sayfası</h4>
+			<form class="forms-sample" method="post" enctype="multipart/form-data">
+				<input type="hidden" asp-for="@Model.Id" class="form-control" placeholder="@Model.Id">
+				<div class="form-group">
+					<label for="exampleInputPassword4">İsim</label>
+					<input type="text" asp-for="Name" class="form-control" placeholder="@Model.Name">
+				</div>
+	
+				<button type="submit" class="btn btn-primary mr-2">Güncelle</button>
+				<button class="btn btn-light">İptal</button>
+			</form>
+		</div>
+	</div>
+</div>

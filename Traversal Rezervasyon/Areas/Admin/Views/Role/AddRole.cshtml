@@ -1,0 +1,27 @@
+﻿@using DTOs.RoleDTOs
+@model AddRoleDtos
+@{
+    ViewData["Title"] = "AddRole";
+    Layout = "~/Views/Shared/_AdminUILayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+	<div class="card">
+		<div class="card-body">
+			<h4 class="card-title">Rol Ekleme Sayfası</h4>
+			<form class="forms-sample" method="post" autocomplete="off">
+
+				<div class="form-group">
+					<label for="exampleInputPassword4">Rol İsim</label>
+					<input type="text" asp-for="Name" class="form-control" placeholder="İsim">
+					<span class="text-danger" asp-validation-for="@Model.Name"></span>
+				</div>
+			
+				<div class="text-danger" asp-validation-summary="ModelOnly"></div>
+
+				<button onclick="SuccessAdd()" type="submit" class="btn btn-primary mr-2">Ekle</button>
+				<button class="btn btn-light">İptal</button>
+			</form>
+		</div>
+	</div>
+</div>

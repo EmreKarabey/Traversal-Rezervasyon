@@ -28,11 +28,17 @@ builder.Services.AddIdentity<AppUser, AppRole>().AddErrorDescriber<ValidationFor
 
 builder.Services.Containers();
 
+
 builder.Services.AddMvc(config =>
 {
     var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
 
     config.Filters.Add(new AuthorizeFilter(policy));
+});
+
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.LoginPath = "/SignIn/Index";
 });
 
 builder.Services.AddMvc();

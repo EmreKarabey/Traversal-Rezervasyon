@@ -15,6 +15,9 @@ namespace BusinessLayer.Abstract
         public string SubstringDescription(int id);
 
         public Destination IncludeDestination(int id);
-     
+
+        public List<Destination> Top4Destination();
+
+
     }
 }

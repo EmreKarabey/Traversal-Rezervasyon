@@ -13,7 +13,9 @@ using DataAccessLayer.EntityFramework;
 using DataAccessLayer.UnitOfWork;
 using DTOs.AnnouncementDTOs;
 using DTOs.ContentDTOs;
+using DTOs.RoleDTOs;
 using FluentValidation;
+using Microsoft.EntityFrameworkCore.Update.Internal;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace BusinessLayer.Containers
@@ -46,6 +48,8 @@ namespace BusinessLayer.Containers
         {
             builder.AddTransient<IValidator<AnnouncementAddDTO>, AnnouncementAddValidation>();
             builder.AddTransient<IValidator<SendContentDTOs>, SendMessageValidation>();
+            builder.AddTransient<IValidator<AddRoleDtos>, AddRoleValidation>();
+            builder.AddTransient<IValidator<UpdateRoleDtos>, UpdateRoleValidation>();
         }
     }
 }
