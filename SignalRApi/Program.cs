@@ -1,23 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using SignalRApi.DAL.Concrete;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// appsettings'ten baðlantý dizesini oku
+var connection = builder.Configuration.GetConnectionString("DefaultConnection");
 
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+// ... diðer servisler ...
 
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+builder.Services.AddDbContext<Context>(opts =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+    // PostgreSQL yerine SQL Server saðlayýcýsýný kullan
+    opts.UseSqlServer(connection);
+});
 
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();
+// ... app.Run()

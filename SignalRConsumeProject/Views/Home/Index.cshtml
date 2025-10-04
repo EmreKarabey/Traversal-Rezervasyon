@@ -1,0 +1,85 @@
+﻿﻿
+	@{
+		ViewData["Title"] = "Index2";
+	}
+
+	<h1>Index2</h1>
+
+	@section Scripts {
+		<!-- jQuery mutlaka önce gelsin -->
+		<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+		<script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+		<script src="https://www.gstatic.com/charts/loader.js"></script>
+
+		<script>
+			$(function () {
+			  let visitChartList = [
+				["Tarih", "Balıkesir", "İstanbul", "Samsun", "Rize"]
+			  ];
+
+			  // UI ve Hub farklı porttaysa mutlak adres kullanın.
+			  // Hub HTTPS çalışıyorsa https yazın; HTTP ise her ikisi de HTTP olsun.
+			  const connection = new signalR.HubConnectionBuilder()
+				.withUrl("https://localhost:5255/VisitorHub") // gerekirse http:// yapın
+				.withAutomaticReconnect()
+				.build();
+
+					const connection = new signalR.HubConnectionBuilder()
+			  .withUrl("https://localhost:5255/VisitorHub", { withCredentials: true })
+			  .withAutomaticReconnect()
+			  .build();
+
+			$("#connectionStatus").text(connection.state);
+
+			connection.start()
+			  .then(() => {
+				$("#connectionStatus").text(connection.state); // Connected
+				return connection.invoke("GetVisitorList");
+			  })
+			  .catch(err => {
+				console.error("SignalR start error:", err);
+				$("#connectionStatus").text("Start failed: " + (err?.message || err));
+			  });
+
+
+
+
+			  // Durum değiştikçe ekrana yansıt
+			  connection.onreconnecting(() => $("#connectionStatus").text("Reconnecting"));
+			  connection.onreconnected(() => $("#connectionStatus").text(connection.state));
+			  connection.onclose(() => $("#connectionStatus").text("Closed"));
+
+			  // Sunucudan veri gelince grafiği hazırla
+			  connection.on("ReceiveVisitorList", (visitList) => {
+				// Sadece başlık kalsın:
+				visitChartList = [visitChartList[0]]; // veya: visitChartList = visitChartList.slice(0, 1);
+
+				visitList.forEach(item => {
+				  visitChartList.push([item.visitDate, item.counts[0], item.counts[1], item.counts[2], item.counts[3]]);
+				});
+
+				google.charts.load('current', { packages: ['corechart'] });
+				google.charts.setOnLoadCallback(drawChart);
+			  });
+
+			  function drawChart() {
+				const data = google.visualization.arrayToDataTable(visitChartList);
+				const options = { title: 'Başlık', curveType: 'none', legend: { position: 'bottom' } };
+				const chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+				chart.draw(data, options);
+			  }
+			});
+		</script>
+	}
+
+
+<div class="container">
+	<br />
+	<div class="alert alert-warning">
+		Bağlantınızın Durumu:<b id="connectionStatus"></b>
+	</div>
+</div>
+<br />
+
+<div id="curve_chart" style="width: 1200px; height: 800px"></div>
