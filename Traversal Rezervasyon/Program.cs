@@ -1,73 +1,66 @@
-using BusinessLayer.Abstract;
 using BusinessLayer.Concrete;
 using BusinessLayer.Containers;
 using BusinessLayer.ValidationRule;
-using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
-using DataAccessLayer.EntityFramework;
-using DTOs.AnnouncementDTOs;
 using EntityLayer.Concrete;
-using FluentValidation;
 using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
-using Microsoft.AspNetCore.Mvc.Filters;
+using Microsoft.AspNetCore.Mvc.Razor;
 using Traversal_Rezervasyon.CRQS.Handlers;
 using Traversal_Rezervasyon.Models;
 
-
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// ---------- Services ----------
 builder.Services.AddDbContext<Context>();
 
-builder.Services.AddIdentity<AppUser, AppRole>().AddErrorDescriber<ValidationForPassword>().AddEntityFrameworkStores<Context>().AddDefaultTokenProviders();
+builder.Services.AddIdentity<AppUser, AppRole>()
+    .AddErrorDescriber<ValidationForPassword>()
+    .AddEntityFrameworkStores<Context>()
+    .AddDefaultTokenProviders();
 
 builder.Services.Containers();
+builder.Services.CustomerValidator();
+builder.Services.AddHttpClient();
+builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.AddMediatR(typeof(Program));
 
 
-builder.Services.AddMvc(config =>
+
+// Global auth policy
+builder.Services.AddMvc(options =>
 {
-    var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
-
-    config.Filters.Add(new AuthorizeFilter(policy));
+    var policy = new AuthorizationPolicyBuilder()
+        .RequireAuthenticatedUser()
+        .Build();
+    options.Filters.Add(new AuthorizeFilter(policy));
 });
 
+// Cookie
 builder.Services.ConfigureApplicationCookie(options =>
 {
     options.LoginPath = "/SignIn/Index";
 });
 
-builder.Services.AddMvc();
-builder.Services.AddHttpClient();
 
-builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.AddLocalization(o => o.ResourcesPath = "Resource");
 
-builder.Services.CustomerValidator();
+builder.Services.AddControllersWithViews()
+    .AddViewLocalization()               
+    .AddDataAnnotationsLocalization()      
+    .AddFluentValidation();
 
-builder.Services.AddControllersWithViews().AddFluentValidation();
+var supportedCultures = new[] { "tr-TR", "en-US", "fr-FR", "es-ES", "el-GR", "de-DE" };
 
-builder.Services.AddLogging(x =>
-{
-    x.ClearProviders();
-
-    x.SetMinimumLevel(LogLevel.Debug);
-
-    x.AddDebug();
-});
+var locOptions = new RequestLocalizationOptions()
+    .SetDefaultCulture("tr-TR")
+    .AddSupportedCultures(supportedCultures)
+    .AddSupportedUICultures(supportedCultures);
 
 
-
-builder.Logging.ClearProviders();
-builder.Logging.AddConsole();
-builder.Logging.AddDebug();
-// Eðer Microsoft.Extensions.Logging.File (veya kullandýðýn AddFile paketi) yüklüyse:
-var logsDir = Path.Combine(builder.Environment.ContentRootPath, "Logs");
-Directory.CreateDirectory(logsDir);
-builder.Logging.AddFile(Path.Combine(logsDir, "app.log")); // veya "log-.txt" paketine göre
 
 builder.Services.AddScoped<GetAllDestinationQueryHandlers>();
 builder.Services.AddScoped<GetDestinationQueryHandlers>();
@@ -76,38 +69,41 @@ builder.Services.AddScoped<GetDeleteDestinationQueryHandlers>();
 builder.Services.AddScoped<GetUpdateDestinationQueryHandlers>();
 
 
-builder.Services.AddMediatR(typeof(Program));
-
 var app = builder.Build();
 
 
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
-app.UseStatusCodePagesWithReExecute("/Admin/_404Pages/Index", "?code{0}");
+
+
+app.UseStatusCodePagesWithReExecute("/Admin/_404Pages/Index", "?code={0}");
+
 app.UseHttpsRedirection();
 
+
+app.UseRequestLocalization(locOptions);
+
 app.UseStaticFiles();
+
 app.UseRouting();
+
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapStaticAssets();
+// Areas
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
-      name: "areas",
-      pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
-    );
+        name: "areas",
+        pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 });
+
+// Default route
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
-    .WithStaticAssets();
-
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

@@ -49,6 +49,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Resource\Views\Shared\_MemberNewLayout.tr-TR.resx" />
     <None Include="wwwroot\chameleon-admin-master\assets\.DS_Store" />
     <None Include="wwwroot\chameleon-admin-master\gulp-tasks\.DS_Store" />
     <None Include="wwwroot\chameleon-admin-master\src\.DS_Store" />

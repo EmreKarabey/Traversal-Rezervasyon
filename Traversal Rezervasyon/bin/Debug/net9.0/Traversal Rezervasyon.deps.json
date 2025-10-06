@@ -30,6 +30,26 @@
         },
         "runtime": {
           "Traversal Rezervasyon.dll": {}
+        },
+        "resources": {
+          "de/Traversal Rezervasyon.resources.dll": {
+            "locale": "de"
+          },
+          "en/Traversal Rezervasyon.resources.dll": {
+            "locale": "en"
+          },
+          "es/Traversal Rezervasyon.resources.dll": {
+            "locale": "es"
+          },
+          "fr/Traversal Rezervasyon.resources.dll": {
+            "locale": "fr"
+          },
+          "en-US/Traversal Rezervasyon.resources.dll": {
+            "locale": "en-US"
+          },
+          "tr-TR/Traversal Rezervasyon.resources.dll": {
+            "locale": "tr-TR"
+          }
         }
       },
       "AutoMapper/12.0.1": {
