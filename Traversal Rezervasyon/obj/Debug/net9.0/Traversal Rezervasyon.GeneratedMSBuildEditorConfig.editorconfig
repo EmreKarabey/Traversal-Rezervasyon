@@ -220,12 +220,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xDb21tZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Members/Views/Dashboard/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xEYXNoYm9hcmRcRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Members/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Members/Views/Destination/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xEZXN0aW5hdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Members/Views/LastDestination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xMYXN0RGVzdGluYXRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Members/Views/Profile/Index.cshtml]
@@ -256,12 +264,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xfTGFzdERlc3RpbmF0aW9uQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Members/Views/Shared/Components/_MemberStatisticComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xfTWVtYmVyU3RhdGlzdGljQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Members/Views/Shared/Components/_PlatformSettingsComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xfUGxhdGZvcm1TZXR0aW5nc0NvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Members/Views/Shared/Components/_ProfileInformationComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xfUHJvZmlsZUluZm9ybWF0aW9uQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Members/Views/Shared/Components/_RecentBuyersComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyc1xWaWV3c1xTaGFyZWRcQ29tcG9uZW50c1xfUmVjZW50QnV5ZXJzQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Areas/Members/Views/Shared/Components/_SelectDestinationComponent/Default.cshtml]
@@ -380,6 +396,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0d1aWRlQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/Components/_MemberFooterComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01lbWJlckZvb3RlckNvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/Components/_MemberHeadComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01lbWJlckhlYWRDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/Components/_MemberLanguageComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01lbWJlckxhbmd1YWdlQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/Components/_MemberNavbarComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01lbWJlck5hdmJhckNvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/Components/_MemberSearchComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01lbWJlclNlYXJjaENvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/Components/_MemberSidebarComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01lbWJlclNpZGViYXJDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/Components/_PartialNavbarComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BhcnRpYWxOYXZiYXJDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -410,6 +450,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/_AdminUILayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pblVJTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/_MemberNewLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW1iZXJOZXdMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lenovo/OneDrive/Masaüstü/Yazılım/C\# Programlama/Traversal Rezervasyon/Traversal Rezervasyon/Views/Shared/_MemberUILayout.cshtml]

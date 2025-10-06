@@ -1,65 +1,94 @@
 ﻿@model Traversal_Rezervasyon.Areas.Members.Models.UserProfileEditModel
 @{
     ViewData["Title"] = "Index";
-    Layout = "~/Views/Shared/_MemberUILayout.cshtml";
+    Layout = "~/Views/Shared/_MemberNewLayout.cshtml";
 }
 
-<div class="col-12 grid-margin stretch-card">
-    <div class="card">
-        <div class="card-body">
-            <h4 class="card-title">Profil Bilgilerini Düzenle</h4>
-            <form class="forms-sample" method="post" enctype="multipart/form-data">
-                <div class="form-group">
-                    <label for="exampleInputName1">Adınız</label>
-                    <input type="text" asp-for="Name" class="form-control" id="exampleInputName1" placeholder="Ad">
-                </div>
-                <div class="form-group">
-                    <label for="exampleInputName1">Soyadınız</label>
-                    <input type="text" asp-for="Surname" class="form-control" id="exampleInputName1" placeholder="Soyad">
-                </div>
-                <div class="form-group">
-                    <label for="exampleInputPassword4">Şifreniz</label>
-                    <input type="password" asp-for="Password" class="form-control" id="exampleInputName1" placeholder="Şifre">
-                </div>
-                <div class="form-group">
-                    <label for="exampleInputPassword4">Şifrenizi Tekrar Girin</label>
-                    <input type="password" asp-for="ConfirmPassword" class="form-control" id="exampleInputName1" placeholder="Şifre Tekrarı">
-                </div>
-                <div class="form-group">
-                    <label for="exampleInputName1">E-Mail</label>
-                    <input type="text" asp-for="Mail" class="form-control" id="exampleInputName1" placeholder="Mail">
-                </div>
-                <div class="form-group">
-                    <label for="exampleInputName1">Kullanıcı Adı</label>
-                    <input type="text" asp-for="UserName" class="form-control" id="exampleInputName1" placeholder="Kullanıcı Adı">
-                </div>
 
-                <div class="form-group">
-                    <label for="exampleInputName1">Cinsiyet</label>
-                    <select type="text" asp-for="Gender" class="form-control" id="exampleInputName1"><option value=" ">---------Cinsiyet Seçin---------</option> <option value="Kız">Kız</option> <option value="Erkek">Erkek</option> </select>
-                </div>
 
-                <div class="form-group">
-                    <label for="exampleInputName1">Telefon Numarası</label>
-                    <input type="text" asp-for="Phone" class="form-control" id="exampleInputName1" placeholder="Telefon Numarası">
-                </div>
 
-                <div class="form-group">
-                    <label>Resim Yükle</label>
-                    <input type="file" asp-for="Image">
-                    
-                </div>
-
-                <div class="form-group">
-                    <label>Arka Plan Resmi</label>
-                    <input type="file" asp-for="Background">
-
-                </div>
-
-                <button type="submit" class="btn btn-primary mr-2">Güncelle</button>
-                <button class="btn btn-light">İptal</button>
-            </form>
+<div class="app-content content">
+    <div class="content-wrapper">
+        <div class="content-wrapper-before"></div>
+        <div class="content-header row">
+            <div class="content-header-left col-md-4 col-12 mb-2">
+                <h3 class="content-header-title">Profil Bilgilerini Düzenleme Sayfası</h3>
+            </div>
         </div>
-    </div>
-</div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <h4 class="card-title">Profil Bilgilerini Düzenle</h4>
+                            <a class="heading-elements-toggle"><i class="la la-ellipsis-v font-medium-3"></i></a>
+                            <div class="heading-elements">
+                                <ul class="list-inline mb-0">
+                                    <li><a data-action="collapse"><i class="ft-minus"></i></a></li>
+                                    <li><a data-action="reload"><i class="ft-rotate-cw"></i></a></li>
+                                    <li><a data-action="expand"><i class="ft-maximize"></i></a></li>
+                                    <li><a data-action="Kapat"><i class="ft-x"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="card-content collapse show">
+                            <div class="card-body">
+                                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                                    <div class="form-group">
+                                        <label for="exampleInputName1">Adınız</label>
+                                        <input type="text" asp-for="Name" class="form-control" id="exampleInputName1" placeholder="Ad">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="exampleInputName1">Soyadınız</label>
+                                        <input type="text" asp-for="Surname" class="form-control" id="exampleInputName1" placeholder="Soyad">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="exampleInputPassword4">Şifreniz</label>
+                                        <input type="password" asp-for="Password" class="form-control" id="exampleInputName1" placeholder="Şifre">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="exampleInputPassword4">Şifrenizi Tekrar Girin</label>
+                                        <input type="password" asp-for="ConfirmPassword" class="form-control" id="exampleInputName1" placeholder="Şifre Tekrarı">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="exampleInputName1">E-Mail</label>
+                                        <input type="text" asp-for="Mail" class="form-control" id="exampleInputName1" placeholder="Mail">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="exampleInputName1">Kullanıcı Adı</label>
+                                        <input type="text" asp-for="UserName" class="form-control" id="exampleInputName1" placeholder="Kullanıcı Adı">
+                                    </div>
 
+                                    <div class="form-group">
+                                        <label for="exampleInputName1">Cinsiyet</label>
+                                        <select type="text" asp-for="Gender" class="form-control" id="exampleInputName1"><option value=" ">---------Cinsiyet Seçin---------</option> <option value="Kız">Kız</option> <option value="Erkek">Erkek</option> </select>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="exampleInputName1">Telefon Numarası</label>
+                                        <input type="text" asp-for="Phone" class="form-control" id="exampleInputName1" placeholder="Telefon Numarası">
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label>Resim Yükle</label>
+                                        <input type="file" asp-for="Image">
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label>Arka Plan Resmi</label>
+                                        <input type="file" asp-for="Background">
+
+                                    </div>
+
+                                    <button type="submit" class="btn btn-primary mr-2">Güncelle</button>
+                                    <button class="btn btn-light">İptal</button>
+                                </form>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>

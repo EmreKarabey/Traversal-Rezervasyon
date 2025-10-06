@@ -1,46 +1,69 @@
 ﻿@model EntityLayer.Concrete.Reservation
 @{
-	ViewData["Title"] = "NewReservation";
-	Layout = "~/Views/Shared/_MemberUILayout.cshtml";
+    ViewData["Title"] = "NewReservation";
+    Layout = "~/Views/Shared/_MemberNewLayout.cshtml";
 }
 
+<div class="app-content content">
+    <div class="content-wrapper">
+        <div class="content-wrapper-before"></div>
+        <div class="content-header row">
+            <div class="content-header-left col-md-4 col-12 mb-2">
+                <h3 class="content-header-title">Yeni Rezervasyon Ekleme Sayfası</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Yeni Rezervasyon Ekle</h4>
+                        <a class="heading-elements-toggle"><i class="la la-ellipsis-v font-medium-3"></i></a>
+                        <div class="heading-elements">
+                            <ul class="list-inline mb-0">
+                                <li><a data-action="collapse"><i class="ft-minus"></i></a></li>
+                                <li><a data-action="reload"><i class="ft-rotate-cw"></i></a></li>
+                                <li><a data-action="expand"><i class="ft-maximize"></i></a></li>
+                                <li><a data-action="Kapat"><i class="ft-x"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card-content collapse show">
+                        <div class="card-body">
 
-<div class="col-12 grid-margin stretch-card">
-	<div class="card">
-		<div class="card-body">
-			<h4 class="card-title">Rezervasyon İşlem Sayfası</h4>
-			<form class="forms-sample" method="post">
-				<div class="form-group">
-					<label for="exampleInputName1">Kaç Kişisiniz ?</label>
-					<input type="text" asp-for="PersonCount" class="form-control" id="exampleInputName1" placeholder="Kaç Kişisiniz ?">
-				</div>
-				<div class="form-group">
-					<label for="exampleInputName1">Rezervasyon Yeri</label>
-					<select type="text" class="form-control" asp-for="DestinationID" id="exampleInputName1">
-						@await Component.InvokeAsync("_SelectDestinationComponent")
-					</select>
-				</div>
-				<div class="form-group">
-					<label for="exampleInputPassword4">Açıklama</label>
-					<input type="text" asp-for="Description" class="form-control" id="exampleInputName1" placeholder="Açıklama">
-				</div>
-				<div class="form-group">
-					<label for="exampleInputName1">Tarih ?</label>
-					<input type="date" asp-for="ReservationDateTime" class="form-control">
-				</div>
-				<button type="submit" class="btn btn-success mr-2" onclick="showmessage()">Rezervayon Yap</button>
-				<button class="btn btn-light">İptal</button>
-			</form>
-		</div>
-	</div>
+                            <form method="post">
+                                <div class="form-group">
+                                    <label for="PersonCount">Kaç Kişisiniz ?</label>
+                                    <input asp-for="PersonCount" class="form-control" id="PersonCount" placeholder="Kaç Kişisiniz ?" />
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="DestinationID">Rezervasyon Yeri</label>
+                                    <select asp-for="DestinationID" class="form-control" id="DestinationID">
+                                        @await Component.InvokeAsync("_SelectDestinationComponent")
+                                    </select>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="Description">Açıklama</label>
+                                    <input asp-for="Description" class="form-control" id="Description" placeholder="Açıklama" />
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="ReservationDateTime">Tarih ?</label>
+                                    <input type="date" asp-for="ReservationDateTime" class="form-control" id="ReservationDateTime" />
+                                </div>
+
+                                <button type="submit" class="btn btn-success me-2" onclick="showmessage()">Rezervayon Yap</button>
+                                <a class="btn btn-light" href="#">İptal</a>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 </div>
-<script>
-	window.onload=(function () {
-		alert('Rezervasyonunuz başlangıçta onay bekliyor şeklinde alınacaktır.Rezervasyon onaylanma süreci için "Güncel Rezervasyonlarım" menusunu takip etmeyi unutmayın.');
-	});</script>
 
-<script>
-	function showmessage(){
-		alert('Başarılı Bir Şekilde Rezervasyon Yapıldı');
-	};
-</script>
+

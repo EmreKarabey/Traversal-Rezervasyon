@@ -25,5 +25,10 @@ namespace Traversal_Rezervasyon.Areas.Members.Controllers
             ViewBag.ImageURL = Profile.ImageURL;
             return View();
         }
+
+        public async Task<IActionResult> Dashboard()
+        {
+            return View();
+        }
     }
 }

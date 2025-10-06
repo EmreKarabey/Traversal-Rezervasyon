@@ -70,5 +70,8 @@ namespace Traversal_Rezervasyon.Areas.Members.Controllers
         
             return View(gstr);
         }
+
+   
+      
     }
 }
