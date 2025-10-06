@@ -20,7 +20,7 @@ builder.Services.AddDbContext<Context>();
 builder.Services.AddIdentity<AppUser, AppRole>()
     .AddErrorDescriber<ValidationForPassword>()
     .AddEntityFrameworkStores<Context>()
-    .AddDefaultTokenProviders();
+    .AddTokenProvider<DataProtectorTokenProvider<AppUser>>(TokenOptions.DefaultProvider);
 
 builder.Services.Containers();
 builder.Services.CustomerValidator();
@@ -98,12 +98,12 @@ app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
         name: "areas",
-        pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+        pattern: "{area:exists}/{controller=Default}/{action=Index}/{id?}");
 });
 
 // Default route
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Default}/{action=Index}/{id?}");
 
 app.Run();
